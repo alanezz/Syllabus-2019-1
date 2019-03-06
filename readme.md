@@ -74,7 +74,7 @@ Interrogación     | Fecha
 ----------------- | -----------------------
 Interrogación \#1 | lunes 08 de abril
 Interrogación \#2 | miércoles 08 de mayo
-Interrogación \#3 | miércoles 15 de junio
+Interrogación \#3 | miércoles 05 de junio
 Examen            | martes 03 de julio
 
 La nota de cátedra (_NC_) corresponde a:
