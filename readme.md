@@ -32,6 +32,7 @@ Tamara Cucumides      | [tacucumides@uc.cl]
 Constanza Gaínza      | [cmgainza@uc.cl]
 María Ignacia Sánchez | [mcsanchez@uc.cl]
 Marcelo Saldías       | [misaldias@uc.cl]
+Daniela Concha        | [daconcha@uc.cl]
 
 ### Ayudantes de proyecto
 
@@ -60,6 +61,7 @@ Valentina Álvarez   | [vjalvarez@uc.cl]
 [papotin@uc.cl]: mailto:papotin@uc.cl
 [frduran@uc.cl]: mailto:frduran@uc.cl
 [vjalvarez@uc.cl]: mailto:vjalvarez@uc.cl
+[daconcha@uc.cl]: mailto:daconcha@uc.cl
 
 
 ---
