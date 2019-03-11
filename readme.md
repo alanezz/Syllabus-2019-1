@@ -32,6 +32,7 @@ Tamara Cucumides      | [tacucumides@uc.cl]
 Constanza Gaínza      | [cmgainza@uc.cl]
 María Ignacia Sánchez | [mcsanchez@uc.cl]
 Marcelo Saldías       | [misaldias@uc.cl]
+Daniela Concha        | [daconcha@uc.cl]
 
 ### Ayudantes de proyecto
 
@@ -60,6 +61,7 @@ Valentina Álvarez   | [vjalvarez@uc.cl]
 [papotin@uc.cl]: mailto:papotin@uc.cl
 [frduran@uc.cl]: mailto:frduran@uc.cl
 [vjalvarez@uc.cl]: mailto:vjalvarez@uc.cl
+[daconcha@uc.cl]: mailto:daconcha@uc.cl
 
 
 ---
@@ -74,8 +76,8 @@ Interrogación     | Fecha
 ----------------- | -----------------------
 Interrogación \#1 | lunes 08 de abril
 Interrogación \#2 | miércoles 08 de mayo
-Interrogación \#3 | miércoles 15 de junio
-Examen            | martes 03 de julio
+Interrogación \#3 | miércoles 05 de junio
+Examen            | martes 02 de julio
 
 La nota de cátedra (_NC_) corresponde a:
 
