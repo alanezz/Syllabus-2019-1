@@ -24,15 +24,17 @@ Adrián Soto    | 1       | [assoto@uc.cl]
 
 ### Ayudantes de cátedra
 
-Nombre                | Email
---------------------- | ----------------
-**Isidora Vizcaya**   | [isvizcaya@uc.cl]
-Romano Fenzo          | [rfenzo@uc.cl]
-Tamara Cucumides      | [tacucumides@uc.cl]
-Constanza Gaínza      | [cmgainza@uc.cl]
-María Ignacia Sánchez | [mcsanchez@uc.cl]
-Marcelo Saldías       | [misaldias@uc.cl]
-Daniela Concha        | [daconcha@uc.cl]
+Nombre                 | Email
+---------------------- | ----------------
+**Isidora Vizcaya**    | [isvizcaya@uc.cl]
+Romano Fenzo           | [rfenzo@uc.cl]
+Tamara Cucumides       | [tacucumides@uc.cl]
+Constanza Gaínza       | [cmgainza@uc.cl]
+María Ignacia Sánchez  | [mcsanchez@uc.cl]
+Marcelo Saldías        | [misaldias@uc.cl]
+Daniela Concha         | [daconcha@uc.cl]
+Patricio de Solminihac | [pdesolminihac@uc.cl]
+
 
 ### Ayudantes de proyecto
 
@@ -45,6 +47,7 @@ Nicolás Quiroz      | [naquiroz@uc.cl]
 Philippe Potin      | [papotin@uc.cl]
 Fernanda Durán      | [frduran@uc.cl]
 Valentina Álvarez   | [vjalvarez@uc.cl]
+Valentina Rojas     | [varojasm@uc.cl]
 
 
 [assoto@uc.cl]: mailto:assoto@uc.cl
@@ -62,6 +65,8 @@ Valentina Álvarez   | [vjalvarez@uc.cl]
 [frduran@uc.cl]: mailto:frduran@uc.cl
 [vjalvarez@uc.cl]: mailto:vjalvarez@uc.cl
 [daconcha@uc.cl]: mailto:daconcha@uc.cl
+[pdesolminihac@uc.cl]: mailto:pdesolminihac@uc.cl
+[varojasm@uc.cl]: mailto:varojasm@uc.cl
 
 
 ---
