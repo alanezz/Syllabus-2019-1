@@ -18,7 +18,7 @@ En el `zip` se encuentran tres carpetas:
 
 - `par`: En esta carpeta se encuentran datos que deben importar sólo el grupo par. Los archivos al interior son los siguientes:
 
-	-`vina_enovina_enoturismo.csv`: Corresponde a la información de cada viña que hay por `enotour`. `rid` corresponde a el ID de la región donde se encuentra la viña recorrida en el tour. Las primeras 5 columnas son información de la viña. `vid` es el ID único por viña. El resto de la información es del tour asociado a la viña. `eid` es el ID único por tour.
+	- `vina_enovina_enoturismo.csv`: Corresponde a la información de cada viña que hay por `enotour`. `rid` corresponde a el ID de la región donde se encuentra la viña recorrida en el tour. Las primeras 5 columnas son información de la viña. `vid` es el ID único por viña. El resto de la información es del tour asociado a la viña. `eid` es el ID único por tour.
 
 	- `vino.csv`: Corresponde a la información de cada vino. `vinoid` es un ID único por vino, y `vid` es un id que relaciona cada vino a una viña.
 
