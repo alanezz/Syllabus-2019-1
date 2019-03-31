@@ -28,6 +28,6 @@ En el `zip` se encuentran tres carpetas:
 
 - `parques_nacionales_senderos`: Corresponde a los senderos en cada parque nacional. Hay al menos un parque nacional por región. Y al menos un atractivo por parque. `sid` es el ID único por sendero, `pid` es el ID único por parque nacional. Las primeras 6 columnas están asociadas al parque, mientras que el resto es información del sendero.
 
--`registro.csv`: Corresponde al registro de usuarios que han ingresado a casa sendero. Hay al menos un registro por sendero  `regid` es el ID único por registro.
+- `registro.csv`: Corresponde al registro de usuarios que han ingresado a casa sendero. Hay al menos un registro por sendero  `regid` es el ID único por registro.
 
 
