@@ -1,0 +1,6610 @@
+[
+    {
+        "message": "Hey! Estamos preparando material para el nuevo disco. ",
+        "sender": 1,
+        "receptant": 44,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-09-15"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero NebCoins. Me despido, salu5.",
+        "sender": 1,
+        "receptant": 9,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-07-17"
+    },
+    {
+        "message": "Buena! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Eso me tiene bien.",
+        "sender": 1,
+        "receptant": 20,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-01-13"
+    },
+    {
+        "message": "Hey! Canté mi canción favorita anoche. Me despido, saludos.",
+        "sender": 1,
+        "receptant": 115,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-08-26"
+    },
+    {
+        "message": "Hola! Vienes en camino?",
+        "sender": 1,
+        "receptant": 110,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-06-21"
+    },
+    {
+        "message": "Cómo estás? Quiero jugar PokémonCambio y fuera.",
+        "sender": 1,
+        "receptant": 99,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-02-26"
+    },
+    {
+        "message": "Te cuento que: Estuve pensando en lo de P y NP. Eso me tiene bien.",
+        "sender": 2,
+        "receptant": 108,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2018-01-09"
+    },
+    {
+        "message": "Tanto tiempo! Viste las noticias?",
+        "sender": 2,
+        "receptant": 57,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2016-04-19"
+    },
+    {
+        "message": "Sucede que: Te quiero 3000. Eso me tiene bien.",
+        "sender": 2,
+        "receptant": 79,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2017-01-15"
+    },
+    {
+        "message": "Sucede que: Canté mi canción favorita anoche. Eso me hace feliz.",
+        "sender": 2,
+        "receptant": 50,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2015-03-01"
+    },
+    {
+        "message": "Hola! Me comí un completo. Eso me hace feliz.",
+        "sender": 3,
+        "receptant": 151,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-09-07"
+    },
+    {
+        "message": "Pensaste en la propuesta?",
+        "sender": 3,
+        "receptant": 52,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-10-28"
+    },
+    {
+        "message": "Tenemos que hablar. No sé que hacer. Cuando un partido?",
+        "sender": 3,
+        "receptant": 101,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-08-14"
+    },
+    {
+        "message": "Hola! Me quiero ir del United. Eso me tiene bien.",
+        "sender": 4,
+        "receptant": 149,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-09-04"
+    },
+    {
+        "message": "Sucede que: Me quiero ir del Barça. Me despido, salu5.",
+        "sender": 4,
+        "receptant": 134,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-08-02"
+    },
+    {
+        "message": "Hola! Bailé hasta muy tarde. Me despido, salu3.",
+        "sender": 4,
+        "receptant": 22,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-04-14"
+    },
+    {
+        "message": "Buena! Dame tus datos para mandarte las NebCoins. Espero que nos juntemos pronto.",
+        "sender": 4,
+        "receptant": 143,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2017-04-27"
+    },
+    {
+        "message": "Tanto tiempo! Fue falta profe! Cuando un partido?",
+        "sender": 4,
+        "receptant": 10,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-08-08"
+    },
+    {
+        "message": "Hey! Hubo un gol de Audax. 10 - 4.",
+        "sender": 4,
+        "receptant": 5,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-08-27"
+    },
+    {
+        "message": "Te cuento que: Quiero gastar un par de NebCoins. ",
+        "sender": 5,
+        "receptant": 46,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-04-17"
+    },
+    {
+        "message": "Pasó algo. Pensé en lo que el paso de las estaciones significa en mi vida. 10 - 4.",
+        "sender": 5,
+        "receptant": 31,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-06-17"
+    },
+    {
+        "message": "Hola! No sé qué pensé al comprar NebCoins. Eso me tiene bien.",
+        "sender": 5,
+        "receptant": 81,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-01-17"
+    },
+    {
+        "message": "Pasó algo. Keep calm and buy NebCoins. Jajajajaja.",
+        "sender": 5,
+        "receptant": 156,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-01-16"
+    },
+    {
+        "message": "Hola! Estoy borracho. Eso me hace feliz.",
+        "sender": 5,
+        "receptant": 104,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-10-20"
+    },
+    {
+        "message": "Hola! Me encanta el reggaetton. Cambio y fuera.",
+        "sender": 5,
+        "receptant": 112,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-01-20"
+    },
+    {
+        "message": "Te cuento que: Alcancé el equilibrio espiritual. 10 - 4.",
+        "sender": 6,
+        "receptant": 14,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-08-27"
+    },
+    {
+        "message": "Hey! No sé si invertir en NebCoins. Me despido, saludos.",
+        "sender": 6,
+        "receptant": 105,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-02-06"
+    },
+    {
+        "message": "Hola! Me comí un churrasco. Cuando un partido?",
+        "sender": 6,
+        "receptant": 97,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-04-08"
+    },
+    {
+        "message": "Hey! Quiero jugar PokémonJijiji.",
+        "sender": 6,
+        "receptant": 111,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-02-26"
+    },
+    {
+        "message": "Hola! Perdí mi pingüino. Eso me tiene mal.",
+        "sender": 6,
+        "receptant": 43,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-06-14"
+    },
+    {
+        "message": "Tanto tiempo! Has ido al nuevo restaurant?",
+        "sender": 6,
+        "receptant": 15,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-03-03"
+    },
+    {
+        "message": "Hola! Vas a venir?",
+        "sender": 7,
+        "receptant": 73,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-01-26"
+    },
+    {
+        "message": "Te cuento que: Ayer hice un sendero muy fácil. Jajajajaja.",
+        "sender": 7,
+        "receptant": 12,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-06-18"
+    },
+    {
+        "message": "Hola! Quiero organizar una fiesta de té. Me despido, salu5.",
+        "sender": 7,
+        "receptant": 43,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-04-28"
+    },
+    {
+        "message": "Tanto tiempo! Has ido al nuevo restaurant?",
+        "sender": 7,
+        "receptant": 14,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-02-26"
+    },
+    {
+        "message": "Tanto tiempo! Hiciste la tarea de BD?",
+        "sender": 8,
+        "receptant": 101,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-06-08"
+    },
+    {
+        "message": "Buena! Descubrí que sobre las nubes vuela el aliento. Eso me tiene mal.",
+        "sender": 8,
+        "receptant": 42,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-07-13"
+    },
+    {
+        "message": "Cómo estás? Estuve pensando en lo de P y NP. Espero que nos juntemos pronto.",
+        "sender": 8,
+        "receptant": 72,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-12-18"
+    },
+    {
+        "message": "Tenemos que hablar. Hoy compré pan con NebCoins. Eso me tiene mal.",
+        "sender": 8,
+        "receptant": 37,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-11-07"
+    },
+    {
+        "message": "Hey! Dame tus datos para mandarte las NebCoins. Eso me hace feliz.",
+        "sender": 9,
+        "receptant": 35,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-11-11"
+    },
+    {
+        "message": "Te cuento que: Quiero jugar Megaman. Jajajajaja.",
+        "sender": 9,
+        "receptant": 59,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-09-11"
+    },
+    {
+        "message": "Hola! This is no time for caution, TARS. Me despido, salu3.",
+        "sender": 9,
+        "receptant": 2,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-10-16"
+    },
+    {
+        "message": "Tanto tiempo! Me comí un churrasco. Jijiji.",
+        "sender": 9,
+        "receptant": 38,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2016-08-22"
+    },
+    {
+        "message": "Hola! No sé que hacer. Espero que nos juntemos pronto.",
+        "sender": 9,
+        "receptant": 1,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2016-11-02"
+    },
+    {
+        "message": "Cómo estás? Me comí un completo. Cuando un partido?",
+        "sender": 9,
+        "receptant": 81,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2016-05-07"
+    },
+    {
+        "message": "Sucede que: Quiero NebCoins. Cambio y fuera.",
+        "sender": 9,
+        "receptant": 3,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-08-25"
+    },
+    {
+        "message": "Buena! Palestino es muy grande. Cambio y fuera.",
+        "sender": 10,
+        "receptant": 19,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-09-03"
+    },
+    {
+        "message": "Pasó algo. Palestino es muy grande. Espero que nos juntemos pronto.",
+        "sender": 10,
+        "receptant": 66,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-03-06"
+    },
+    {
+        "message": "Tanto tiempo! Vas a venir?",
+        "sender": 10,
+        "receptant": 150,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2018-01-12"
+    },
+    {
+        "message": "Buena! Palestino es muy grande. Eso me tiene bien.",
+        "sender": 11,
+        "receptant": 107,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-01-04"
+    },
+    {
+        "message": "Hey! Canté mi canción favorita anoche. Cuando un partido?",
+        "sender": 11,
+        "receptant": 133,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-03-09"
+    },
+    {
+        "message": "Pasó algo. Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Me despido, saludos.",
+        "sender": 11,
+        "receptant": 111,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-01-10"
+    },
+    {
+        "message": "Tanto tiempo! Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Me despido, salu3.",
+        "sender": 11,
+        "receptant": 156,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2017-03-06"
+    },
+    {
+        "message": "Cómo estás? Estoy intentando aprobar el test de turing. Cambio y fuera.",
+        "sender": 12,
+        "receptant": 48,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-05-03"
+    },
+    {
+        "message": "Cómo estás? El nuevo restaurant me gusta mucho. Eso me tiene mal.",
+        "sender": 12,
+        "receptant": 50,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-06-20"
+    },
+    {
+        "message": "Tanto tiempo! Me gustó el hotel que reservé. No sé que hacer al respecto.",
+        "sender": 12,
+        "receptant": 117,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-04-27"
+    },
+    {
+        "message": "Pasó algo. Quiero gastar un par de NebCoins. No sé que hacer al respecto.",
+        "sender": 12,
+        "receptant": 95,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-06-20"
+    },
+    {
+        "message": "Te cuento que: Me quiero ir del United. Jijiji.",
+        "sender": 12,
+        "receptant": 46,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-03-11"
+    },
+    {
+        "message": "Tenemos que hablar. Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Jajajajaja.",
+        "sender": 12,
+        "receptant": 68,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-06-18"
+    },
+    {
+        "message": "Hey! Bailé hasta muy tarde. Me despido, salu5.",
+        "sender": 12,
+        "receptant": 49,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-04-09"
+    },
+    {
+        "message": "Pasó algo. Perdí mi pingüino. ",
+        "sender": 13,
+        "receptant": 46,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-10-27"
+    },
+    {
+        "message": "Te cuento que: Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Espero que nos juntemos pronto.",
+        "sender": 13,
+        "receptant": 23,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-12-13"
+    },
+    {
+        "message": "Buena! Bailé hasta muy tarde. Eso me hace feliz.",
+        "sender": 13,
+        "receptant": 138,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2017-10-07"
+    },
+    {
+        "message": "Pensaste en la propuesta?",
+        "sender": 13,
+        "receptant": 35,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-12-07"
+    },
+    {
+        "message": "Cómo estás? Te quiero 3000. Espero que nos juntemos pronto.",
+        "sender": 13,
+        "receptant": 121,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-08-01"
+    },
+    {
+        "message": "Hola! Viste la teleserie?",
+        "sender": 13,
+        "receptant": 30,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-01-12"
+    },
+    {
+        "message": "Hey! Me gustó el hotel que reservé. Eso me tiene bien.",
+        "sender": 13,
+        "receptant": 71,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-06-09"
+    },
+    {
+        "message": "Tanto tiempo! Estudiaste BD?",
+        "sender": 14,
+        "receptant": 155,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-04-19"
+    },
+    {
+        "message": "Viste las noticias?",
+        "sender": 14,
+        "receptant": 131,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-02-27"
+    },
+    {
+        "message": "Buena! Quiero jugar Megaman. Espero que nos juntemos pronto.",
+        "sender": 14,
+        "receptant": 82,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-03-12"
+    },
+    {
+        "message": "Hey! Estoy borracho. No sé que hacer al respecto.",
+        "sender": 14,
+        "receptant": 29,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-04-27"
+    },
+    {
+        "message": "Tenemos que hablar. Canté mi canción favorita anoche. Eso me tiene bien.",
+        "sender": 14,
+        "receptant": 82,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2017-05-01"
+    },
+    {
+        "message": "Tanto tiempo! Me quiero ir del Barça. Espero que nos juntemos pronto.",
+        "sender": 14,
+        "receptant": 3,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-11-17"
+    },
+    {
+        "message": "Tanto tiempo! Hiciste la tarea de BD?",
+        "sender": 14,
+        "receptant": 73,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-02-01"
+    },
+    {
+        "message": "Pasó algo. Me quiero ir del United. Me despido, saludos.",
+        "sender": 15,
+        "receptant": 147,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-05-06"
+    },
+    {
+        "message": "Sucede que: This is no time for caution, TARS. 10 - 4.",
+        "sender": 15,
+        "receptant": 27,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-05-10"
+    },
+    {
+        "message": "Hola! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Jajajajaja.",
+        "sender": 15,
+        "receptant": 92,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-05-01"
+    },
+    {
+        "message": "Tenemos que hablar. Pensé en lo que el paso de las estaciones significa en mi vida. Me despido, salu5.",
+        "sender": 16,
+        "receptant": 118,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-10-07"
+    },
+    {
+        "message": "Hey! Quiero organizar una fiesta de té. Cuando un partido?",
+        "sender": 16,
+        "receptant": 83,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-09-23"
+    },
+    {
+        "message": "Hola! Quiero hacer el tour de Robert Langdon por Roma. Me despido, salu3.",
+        "sender": 16,
+        "receptant": 29,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-01-01"
+    },
+    {
+        "message": "Hola! Escuché la nueva canción de Metallica. Eso me tiene mal.",
+        "sender": 16,
+        "receptant": 68,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-09-19"
+    },
+    {
+        "message": "Te cuento que: Descubrí que sobre las nubes vuela el aliento. Eso me hace feliz.",
+        "sender": 16,
+        "receptant": 97,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-02-26"
+    },
+    {
+        "message": "Sucede que: Escuché la nueva canción de Metallica. Me despido, salu3.",
+        "sender": 16,
+        "receptant": 25,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-05-26"
+    },
+    {
+        "message": "Hiciste la tarea de BD?",
+        "sender": 16,
+        "receptant": 25,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-02-21"
+    },
+    {
+        "message": "Hey! Hubo un gol de Audax. Jajajajaja.",
+        "sender": 17,
+        "receptant": 47,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-10-23"
+    },
+    {
+        "message": "Te cuento que: No sé qué pensé al comprar NebCoins. Jijiji.",
+        "sender": 17,
+        "receptant": 136,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-08-01"
+    },
+    {
+        "message": "Tenemos que hablar. Escuché la nueva canción de Metallica. Me despido, saludos.",
+        "sender": 17,
+        "receptant": 49,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-04-03"
+    },
+    {
+        "message": "Tanto tiempo! Escuché la nueva canción de Metallica. ",
+        "sender": 17,
+        "receptant": 58,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-07-20"
+    },
+    {
+        "message": "Hola! El nuevo restaurant me gusta mucho. Eso me hace feliz.",
+        "sender": 17,
+        "receptant": 26,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-06-08"
+    },
+    {
+        "message": "Hola! Tengo que estudiar Bases de Datos. Me despido, salu3.",
+        "sender": 17,
+        "receptant": 31,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-07-02"
+    },
+    {
+        "message": "Tanto tiempo! Me encanta el reggaetton. ",
+        "sender": 17,
+        "receptant": 10,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-03-24"
+    },
+    {
+        "message": "Sucede que: This is no time for caution, TARS. ",
+        "sender": 18,
+        "receptant": 109,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-04-08"
+    },
+    {
+        "message": "Tanto tiempo! Estudiaste BD?",
+        "sender": 18,
+        "receptant": 96,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-06-22"
+    },
+    {
+        "message": "Viste la teleserie?",
+        "sender": 18,
+        "receptant": 36,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-10-24"
+    },
+    {
+        "message": "Tanto tiempo! Hiciste la tarea de BD?",
+        "sender": 18,
+        "receptant": 126,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-05-19"
+    },
+    {
+        "message": "Cómo estás? Me comí un completo. Me despido, saludos.",
+        "sender": 19,
+        "receptant": 146,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-04-01"
+    },
+    {
+        "message": "Tanto tiempo! Me comí un churrasco. Espero que nos juntemos pronto.",
+        "sender": 19,
+        "receptant": 66,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-06-12"
+    },
+    {
+        "message": "Hola! Vienes en camino?",
+        "sender": 19,
+        "receptant": 1,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-07-18"
+    },
+    {
+        "message": "Tenemos que hablar. Me encanta el grunge. 10 - 4.",
+        "sender": 19,
+        "receptant": 111,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-10-28"
+    },
+    {
+        "message": "Tanto tiempo! Vienes en camino?",
+        "sender": 20,
+        "receptant": 9,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2018-01-28"
+    },
+    {
+        "message": "Hey! Odio el reggaetton. Cambio y fuera.",
+        "sender": 20,
+        "receptant": 99,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-01-02"
+    },
+    {
+        "message": "Tenemos que hablar. Te odio. Eso me tiene mal.",
+        "sender": 20,
+        "receptant": 31,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-06-26"
+    },
+    {
+        "message": "Buena! Estamos preparando material para el nuevo disco. 10 - 4.",
+        "sender": 20,
+        "receptant": 35,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-04-28"
+    },
+    {
+        "message": "Cómo estás? No lo sé Rick, parece falso. Me despido, salu3.",
+        "sender": 21,
+        "receptant": 8,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-05-01"
+    },
+    {
+        "message": "Sucede que: No sé qué pensé al comprar NebCoins. Eso me hace feliz.",
+        "sender": 21,
+        "receptant": 105,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-09-22"
+    },
+    {
+        "message": "Tanto tiempo! Me comí un churrasco. Eso me tiene bien.",
+        "sender": 21,
+        "receptant": 12,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-04-08"
+    },
+    {
+        "message": "Sucede que: Hubo un gol de Audax. 10 - 4.",
+        "sender": 21,
+        "receptant": 46,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-02-06"
+    },
+    {
+        "message": "Tenemos que hablar. El nuevo restaurant me gusta mucho. Me despido, salu5.",
+        "sender": 21,
+        "receptant": 86,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-09-01"
+    },
+    {
+        "message": "Hey! Ayer hcie un sendero muy difícil. Eso me tiene mal.",
+        "sender": 21,
+        "receptant": 123,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-12-08"
+    },
+    {
+        "message": "Hola! Cómo va tu curso de origami?",
+        "sender": 22,
+        "receptant": 104,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-06-05"
+    },
+    {
+        "message": "Buena! Pensaste en la propuesta?",
+        "sender": 22,
+        "receptant": 63,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-04-12"
+    },
+    {
+        "message": "Hey! This is no time for caution, TARS. Eso me tiene mal.",
+        "sender": 22,
+        "receptant": 107,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-11-25"
+    },
+    {
+        "message": "Sucede que: No recuerdo nada. Cambio y fuera.",
+        "sender": 22,
+        "receptant": 122,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-09-11"
+    },
+    {
+        "message": "Tenemos que hablar. Vi a un ballet anoche. Me despido, saludos.",
+        "sender": 22,
+        "receptant": 27,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-10-02"
+    },
+    {
+        "message": "Tanto tiempo! Cómo va tu curso de origami?",
+        "sender": 22,
+        "receptant": 130,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2017-02-14"
+    },
+    {
+        "message": "Pasó algo. Dame tus datos para mandarte las NebCoins. 10 - 4.",
+        "sender": 22,
+        "receptant": 143,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-12-10"
+    },
+    {
+        "message": "Sucede que: Hoy compré pan con NebCoins. Espero que nos juntemos pronto.",
+        "sender": 23,
+        "receptant": 46,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-03-03"
+    },
+    {
+        "message": "Tenemos que hablar. Canté mi canción favorita anoche. ",
+        "sender": 23,
+        "receptant": 138,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-10-15"
+    },
+    {
+        "message": "Tanto tiempo! Estuve pensando en lo de P y NP. Eso me hace feliz.",
+        "sender": 23,
+        "receptant": 106,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-04-08"
+    },
+    {
+        "message": "Buena! Estoy intentando aprobar el test de turing. Cuando un partido?",
+        "sender": 23,
+        "receptant": 90,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-02-08"
+    },
+    {
+        "message": "Te cuento que: Hice un pingüino de origami. Me despido, salu3.",
+        "sender": 23,
+        "receptant": 156,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-03-13"
+    },
+    {
+        "message": "Hey! Quiero jugar Megaman. Espero que nos juntemos pronto.",
+        "sender": 23,
+        "receptant": 77,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-11-23"
+    },
+    {
+        "message": "Pasó algo. Tengo que estudiar Bases de Datos. 10 - 4.",
+        "sender": 23,
+        "receptant": 17,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-11-22"
+    },
+    {
+        "message": "Tenemos que hablar. Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. ",
+        "sender": 24,
+        "receptant": 117,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-10-24"
+    },
+    {
+        "message": "Buena! Viste las noticias?",
+        "sender": 24,
+        "receptant": 143,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2018-08-18"
+    },
+    {
+        "message": "Pasó algo. Tengo que estudiar Bases de Datos. Eso me hace feliz.",
+        "sender": 24,
+        "receptant": 109,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2015-03-28"
+    },
+    {
+        "message": "Te cuento que: Hice un pingüino de origami. Espero que nos juntemos pronto.",
+        "sender": 24,
+        "receptant": 7,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2018-06-16"
+    },
+    {
+        "message": "Cómo estás? Quiero gastar un par de NebCoins. Cambio y fuera.",
+        "sender": 25,
+        "receptant": 77,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-05-08"
+    },
+    {
+        "message": "Tanto tiempo! Alcancé el equilibrio espiritual. Me despido, saludos.",
+        "sender": 25,
+        "receptant": 99,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2018-10-08"
+    },
+    {
+        "message": "Hey! Ayer hice un sendero muy fácil. Espero que nos juntemos pronto.",
+        "sender": 25,
+        "receptant": 53,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2017-06-15"
+    },
+    {
+        "message": "Hey! No lo sé Rick, parece falso. Me despido, salu3.",
+        "sender": 25,
+        "receptant": 153,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2018-08-20"
+    },
+    {
+        "message": "Pasó algo. Quiero organizar una fiesta de té. Me despido, saludos.",
+        "sender": 25,
+        "receptant": 152,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-09-16"
+    },
+    {
+        "message": "Hey! Tengo que estudiar Bases de Datos. Eso me hace feliz.",
+        "sender": 25,
+        "receptant": 57,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2015-04-01"
+    },
+    {
+        "message": "Hola! Estamos preparando material para el nuevo disco. Jijiji.",
+        "sender": 26,
+        "receptant": 32,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-03-12"
+    },
+    {
+        "message": "Buena! Estudiaste BD?",
+        "sender": 26,
+        "receptant": 62,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-07-04"
+    },
+    {
+        "message": "Pasó algo. Escuché la nueva canción de Metallica. ",
+        "sender": 26,
+        "receptant": 93,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-02-18"
+    },
+    {
+        "message": "Tenemos que hablar. No sé que hacer. Eso me tiene mal.",
+        "sender": 26,
+        "receptant": 8,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-04-27"
+    },
+    {
+        "message": "Hola! Hiciste la tarea de BD?",
+        "sender": 26,
+        "receptant": 119,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-07-13"
+    },
+    {
+        "message": "Tanto tiempo! Vi a un ballet anoche. Cuando un partido?",
+        "sender": 26,
+        "receptant": 44,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-11-17"
+    },
+    {
+        "message": "Cómo va tu curso de origami?",
+        "sender": 27,
+        "receptant": 100,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-07-17"
+    },
+    {
+        "message": "Te cuento que: Cobreloa es el mejor equipo del mundo. ",
+        "sender": 27,
+        "receptant": 80,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-05-24"
+    },
+    {
+        "message": "Sucede que: Escuché la nueva canción de Metallica. Espero que nos juntemos pronto.",
+        "sender": 27,
+        "receptant": 76,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-04-03"
+    },
+    {
+        "message": "Hola! Canté mi canción favorita anoche. ",
+        "sender": 27,
+        "receptant": 63,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-12-01"
+    },
+    {
+        "message": "Cómo estás? Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Eso me tiene mal.",
+        "sender": 27,
+        "receptant": 137,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-02-17"
+    },
+    {
+        "message": "Hola! Cómo estás?",
+        "sender": 27,
+        "receptant": 128,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-07-20"
+    },
+    {
+        "message": "Cómo estás? Quiero gastar un par de NebCoins. Eso me hace feliz.",
+        "sender": 28,
+        "receptant": 102,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-09-18"
+    },
+    {
+        "message": "Tanto tiempo! Cobreloa es el mejor equipo del mundo. Eso me tiene bien.",
+        "sender": 28,
+        "receptant": 25,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-06-27"
+    },
+    {
+        "message": "Hola! Quiero NebCoins. Jajajajaja.",
+        "sender": 28,
+        "receptant": 101,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-01-10"
+    },
+    {
+        "message": "Cómo estás? Escuché la nueva canción de Metallica. Jajajajaja.",
+        "sender": 28,
+        "receptant": 117,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-04-17"
+    },
+    {
+        "message": "Buena! Viste las noticias?",
+        "sender": 28,
+        "receptant": 97,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-11-10"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero NebCoins. Eso me hace feliz.",
+        "sender": 28,
+        "receptant": 51,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-11-12"
+    },
+    {
+        "message": "Hola! Estudiaste BD?",
+        "sender": 28,
+        "receptant": 63,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-12-09"
+    },
+    {
+        "message": "Cómo estás? Me comí un completo. Espero que nos juntemos pronto.",
+        "sender": 29,
+        "receptant": 107,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-05-27"
+    },
+    {
+        "message": "Tenemos que hablar. No sé que hacer. 10 - 4.",
+        "sender": 29,
+        "receptant": 111,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-06-25"
+    },
+    {
+        "message": "Pasó algo. Me quiero ir del Barça. Me despido, salu5.",
+        "sender": 29,
+        "receptant": 78,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-12-01"
+    },
+    {
+        "message": "Tenemos que hablar. Mi muñeca me habló. Jijiji.",
+        "sender": 29,
+        "receptant": 138,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-10-26"
+    },
+    {
+        "message": "Tanto tiempo! Vienes en camino?",
+        "sender": 29,
+        "receptant": 37,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-11-13"
+    },
+    {
+        "message": "Hey! Me encanta el grunge. Me despido, salu3.",
+        "sender": 29,
+        "receptant": 61,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-12-22"
+    },
+    {
+        "message": "Hey! Mi muñeca me habló. Cuando un partido?",
+        "sender": 29,
+        "receptant": 11,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-05-24"
+    },
+    {
+        "message": "Buena! No sé qué pensé al comprar NebCoins. Eso me tiene bien.",
+        "sender": 30,
+        "receptant": 101,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2016-03-21"
+    },
+    {
+        "message": "Hola! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Jijiji.",
+        "sender": 30,
+        "receptant": 8,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-02-20"
+    },
+    {
+        "message": "Te cuento que: Descubrí que sobre las nubes vuela el aliento. 10 - 4.",
+        "sender": 30,
+        "receptant": 144,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-08-20"
+    },
+    {
+        "message": "Pasó algo. Canté mi canción favorita anoche. Me despido, saludos.",
+        "sender": 30,
+        "receptant": 52,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-08-04"
+    },
+    {
+        "message": "Tanto tiempo! Viste las noticias?",
+        "sender": 30,
+        "receptant": 117,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-07-18"
+    },
+    {
+        "message": "Hola! Hubo un gol de Audax. ",
+        "sender": 30,
+        "receptant": 49,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-01-02"
+    },
+    {
+        "message": "Hola! Hoy compré pan con NebCoins. Cuando un partido?",
+        "sender": 31,
+        "receptant": 102,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2017-12-03"
+    },
+    {
+        "message": "Hey! Hoy compré pan con NebCoins. No sé que hacer al respecto.",
+        "sender": 31,
+        "receptant": 141,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2018-10-08"
+    },
+    {
+        "message": "Tanto tiempo! Vienes en camino?",
+        "sender": 31,
+        "receptant": 155,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2017-05-15"
+    },
+    {
+        "message": "Tenemos que hablar. Canté mi canción favorita anoche. Jijiji.",
+        "sender": 32,
+        "receptant": 154,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-05-28"
+    },
+    {
+        "message": "Pensaste lo que el paso de las estaciones significa en tu vida?",
+        "sender": 32,
+        "receptant": 67,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2018-03-22"
+    },
+    {
+        "message": "Cómo estás?",
+        "sender": 32,
+        "receptant": 106,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-12-04"
+    },
+    {
+        "message": "Pasó algo. Alcancé el equilibrio espiritual. Cambio y fuera.",
+        "sender": 32,
+        "receptant": 112,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-11-27"
+    },
+    {
+        "message": "Buena! Pensaste lo que el paso de las estaciones significa en tu vida?",
+        "sender": 32,
+        "receptant": 101,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2017-07-21"
+    },
+    {
+        "message": "Hey! Quiero gastar un par de NebCoins. Jajajajaja.",
+        "sender": 33,
+        "receptant": 141,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-10-17"
+    },
+    {
+        "message": "Tenemos que hablar. Estoy intentando aprobar el test de turing. Jijiji.",
+        "sender": 33,
+        "receptant": 150,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-01-02"
+    },
+    {
+        "message": "Cómo estás? Me comí un completo. Eso me hace feliz.",
+        "sender": 33,
+        "receptant": 123,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-03-03"
+    },
+    {
+        "message": "Cómo estás?",
+        "sender": 34,
+        "receptant": 100,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-11-12"
+    },
+    {
+        "message": "Hey! Estamos preparando material para el nuevo disco. Eso me tiene mal.",
+        "sender": 34,
+        "receptant": 9,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-05-21"
+    },
+    {
+        "message": "Te cuento que: Estamos preparando material para el nuevo disco. ",
+        "sender": 34,
+        "receptant": 119,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2016-07-25"
+    },
+    {
+        "message": "Hola! Odio el reggaetton. Me despido, salu3.",
+        "sender": 34,
+        "receptant": 159,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-08-17"
+    },
+    {
+        "message": "Hola! No sé si invertir en NebCoins. Jijiji.",
+        "sender": 34,
+        "receptant": 132,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-11-21"
+    },
+    {
+        "message": "Te cuento que: Di un concierto anoche. Jajajajaja.",
+        "sender": 35,
+        "receptant": 86,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-11-02"
+    },
+    {
+        "message": "Cómo estás? No sé si invertir en NebCoins. No sé que hacer al respecto.",
+        "sender": 35,
+        "receptant": 72,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-06-05"
+    },
+    {
+        "message": "Te cuento que: Lorem ipsum dolor sit amet. Eso me hace feliz.",
+        "sender": 35,
+        "receptant": 125,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2016-06-14"
+    },
+    {
+        "message": "Hola! Hiciste la tarea de BD?",
+        "sender": 35,
+        "receptant": 86,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2016-07-16"
+    },
+    {
+        "message": "Buena! Te quiero 3000. Jajajajaja.",
+        "sender": 36,
+        "receptant": 12,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-01-25"
+    },
+    {
+        "message": "Tanto tiempo! Hiciste la tarea de BD?",
+        "sender": 36,
+        "receptant": 86,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-11-20"
+    },
+    {
+        "message": "Cómo estás? Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Me despido, salu3.",
+        "sender": 36,
+        "receptant": 144,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-10-02"
+    },
+    {
+        "message": "Tanto tiempo! Alcancé el equilibrio espiritual. Jajajajaja.",
+        "sender": 37,
+        "receptant": 97,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-09-04"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero NebCoins. Me despido, salu3.",
+        "sender": 37,
+        "receptant": 119,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2018-07-08"
+    },
+    {
+        "message": "Hey! Fue falta profe! Cambio y fuera.",
+        "sender": 37,
+        "receptant": 78,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-10-10"
+    },
+    {
+        "message": "Cómo estás? Me encanta el metal. Eso me tiene mal.",
+        "sender": 37,
+        "receptant": 16,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2015-03-16"
+    },
+    {
+        "message": "Tanto tiempo! Me quiero ir del United. ",
+        "sender": 37,
+        "receptant": 56,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2015-09-02"
+    },
+    {
+        "message": "Cómo estás? Descubrí que sobre las nubes vuela el aliento. Jijiji.",
+        "sender": 37,
+        "receptant": 68,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2018-05-07"
+    },
+    {
+        "message": "Cómo estás? Me gustó el hotel que reservé. Jijiji.",
+        "sender": 37,
+        "receptant": 66,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2018-09-22"
+    },
+    {
+        "message": "Te cuento que: Odio el reggaetton. 10 - 4.",
+        "sender": 38,
+        "receptant": 107,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-06-14"
+    },
+    {
+        "message": "Tanto tiempo! Descubrí que sobre las nubes vuela el aliento. Cuando un partido?",
+        "sender": 38,
+        "receptant": 5,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-07-22"
+    },
+    {
+        "message": "Cómo estás? Dame tus datos para mandarte las NebCoins. Eso me tiene bien.",
+        "sender": 38,
+        "receptant": 70,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-07-09"
+    },
+    {
+        "message": "Sucede que: Te odio. Jijiji.",
+        "sender": 38,
+        "receptant": 72,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-07-14"
+    },
+    {
+        "message": "Hola! Estudiaste BD?",
+        "sender": 38,
+        "receptant": 47,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-04-16"
+    },
+    {
+        "message": "Hey! Me comí un completo. Me despido, salu5.",
+        "sender": 39,
+        "receptant": 37,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-02-16"
+    },
+    {
+        "message": "Hola! Mi muñeca me habló. Jajajajaja.",
+        "sender": 39,
+        "receptant": 1,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-07-01"
+    },
+    {
+        "message": "Sucede que: Mi muñeca me habló. Eso me tiene bien.",
+        "sender": 39,
+        "receptant": 47,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-12-12"
+    },
+    {
+        "message": "Hey! This is no time for caution, TARS. No sé que hacer al respecto.",
+        "sender": 39,
+        "receptant": 72,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-03-14"
+    },
+    {
+        "message": "Hey! Hubo un gol de Audax. No sé que hacer al respecto.",
+        "sender": 39,
+        "receptant": 45,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-09-21"
+    },
+    {
+        "message": "Pasó algo. Keep calm and buy NebCoins. 10 - 4.",
+        "sender": 40,
+        "receptant": 46,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2015-08-27"
+    },
+    {
+        "message": "Te cuento que: No lo sé Rick, parece falso. Jijiji.",
+        "sender": 40,
+        "receptant": 152,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2016-02-08"
+    },
+    {
+        "message": "Cómo estás? Alcancé el equilibrio espiritual. Me despido, salu5.",
+        "sender": 40,
+        "receptant": 85,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2015-11-03"
+    },
+    {
+        "message": "Pasó algo. No sé que hacer. No sé que hacer al respecto.",
+        "sender": 40,
+        "receptant": 5,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2018-03-05"
+    },
+    {
+        "message": "Estudiaste BD?",
+        "sender": 40,
+        "receptant": 125,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-08-14"
+    },
+    {
+        "message": "Cómo estás? Me encanta el reggaetton. Eso me hace feliz.",
+        "sender": 40,
+        "receptant": 21,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-02-24"
+    },
+    {
+        "message": "Tanto tiempo! Cómo va tu curso de origami?",
+        "sender": 40,
+        "receptant": 25,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2018-11-17"
+    },
+    {
+        "message": "Hola! Estoy intentando aprobar el test de turing. Jijiji.",
+        "sender": 41,
+        "receptant": 139,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-12-19"
+    },
+    {
+        "message": "Pasó algo. Descubrí que sobre las nubes vuela el aliento. Cuando un partido?",
+        "sender": 41,
+        "receptant": 67,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2016-06-16"
+    },
+    {
+        "message": "Te cuento que: No lo sé Rick, parece falso. Cuando un partido?",
+        "sender": 41,
+        "receptant": 23,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-05-01"
+    },
+    {
+        "message": "Hey! Me encanta el metal. Jijiji.",
+        "sender": 41,
+        "receptant": 37,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-01-07"
+    },
+    {
+        "message": "Buena! Me voy de viaje. Me despido, saludos.",
+        "sender": 42,
+        "receptant": 57,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-06-07"
+    },
+    {
+        "message": "Cómo va tu curso de origami?",
+        "sender": 42,
+        "receptant": 159,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-02-17"
+    },
+    {
+        "message": "Pasó algo. Me quiero ir del Barça. Eso me tiene bien.",
+        "sender": 42,
+        "receptant": 154,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-10-27"
+    },
+    {
+        "message": "Tenemos que hablar. Hoy compré pan con NebCoins. Espero que nos juntemos pronto.",
+        "sender": 42,
+        "receptant": 128,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-04-03"
+    },
+    {
+        "message": "Cómo estás? Escuché la nueva canción de Metallica. Cambio y fuera.",
+        "sender": 42,
+        "receptant": 82,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-04-22"
+    },
+    {
+        "message": "Buena! Canté mi canción favorita anoche. Eso me hace feliz.",
+        "sender": 42,
+        "receptant": 34,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-04-20"
+    },
+    {
+        "message": "Pasó algo. Me comí un completo. Jajajajaja.",
+        "sender": 42,
+        "receptant": 104,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-02-01"
+    },
+    {
+        "message": "Tenemos que hablar. Lorem ipsum dolor sit amet. Eso me hace feliz.",
+        "sender": 43,
+        "receptant": 136,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2015-03-24"
+    },
+    {
+        "message": "Tanto tiempo! Vienes en camino?",
+        "sender": 43,
+        "receptant": 99,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2015-02-26"
+    },
+    {
+        "message": "Buena! Mi muñeca me habló. Cuando un partido?",
+        "sender": 43,
+        "receptant": 128,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2017-11-26"
+    },
+    {
+        "message": "Te cuento que: Quiero hacer el tour de Robert Langdon por Roma. Eso me hace feliz.",
+        "sender": 43,
+        "receptant": 149,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2016-06-24"
+    },
+    {
+        "message": "Pasó algo. Me gustó el hotel que reservé. ",
+        "sender": 43,
+        "receptant": 9,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-03-02"
+    },
+    {
+        "message": "Sucede que: Di un concierto anoche. Me despido, salu3.",
+        "sender": 44,
+        "receptant": 8,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-06-23"
+    },
+    {
+        "message": "Hola! Pensé en lo que el paso de las estaciones significa en mi vida. Jijiji.",
+        "sender": 44,
+        "receptant": 38,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2018-08-15"
+    },
+    {
+        "message": "Te cuento que: Me comí un completo. Cambio y fuera.",
+        "sender": 44,
+        "receptant": 61,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-03-12"
+    },
+    {
+        "message": "Sucede que: Quiero gastar un par de NebCoins. Me despido, saludos.",
+        "sender": 44,
+        "receptant": 6,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-02-25"
+    },
+    {
+        "message": "Cómo estás? Te quiero 3000. Me despido, salu3.",
+        "sender": 44,
+        "receptant": 92,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2018-09-28"
+    },
+    {
+        "message": "Pasó algo. Descubrí que sobre las nubes vuela el aliento. Eso me tiene mal.",
+        "sender": 44,
+        "receptant": 43,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-05-28"
+    },
+    {
+        "message": "Hey! Me encanta el reggaetton. ",
+        "sender": 44,
+        "receptant": 154,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-07-04"
+    },
+    {
+        "message": "Buena! Estoy borracho. Jijiji.",
+        "sender": 45,
+        "receptant": 65,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-09-11"
+    },
+    {
+        "message": "Sucede que: Estoy intentando aprobar el test de turing. Jajajajaja.",
+        "sender": 45,
+        "receptant": 69,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-10-13"
+    },
+    {
+        "message": "Tanto tiempo! Pensaste en la propuesta?",
+        "sender": 45,
+        "receptant": 14,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-04-19"
+    },
+    {
+        "message": "Hey! Te odio. Eso me tiene mal.",
+        "sender": 45,
+        "receptant": 9,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-07-27"
+    },
+    {
+        "message": "Cómo estás? Me encanta el metal. ",
+        "sender": 45,
+        "receptant": 131,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2017-07-07"
+    },
+    {
+        "message": "Pasó algo. Ayer hcie un sendero muy difícil. Eso me hace feliz.",
+        "sender": 46,
+        "receptant": 76,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-09-07"
+    },
+    {
+        "message": "Cómo estás?",
+        "sender": 46,
+        "receptant": 94,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-09-05"
+    },
+    {
+        "message": "Te cuento que: Quiero jugar Megaman. Me despido, salu3.",
+        "sender": 46,
+        "receptant": 129,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-09-26"
+    },
+    {
+        "message": "Sucede que: Pensé en lo que el paso de las estaciones significa en mi vida. 10 - 4.",
+        "sender": 46,
+        "receptant": 140,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-02-27"
+    },
+    {
+        "message": "Hey! Quiero jugar Megaman. Jijiji.",
+        "sender": 46,
+        "receptant": 34,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-09-23"
+    },
+    {
+        "message": "Hola! Canté mi canción favorita anoche. Cambio y fuera.",
+        "sender": 46,
+        "receptant": 116,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-07-27"
+    },
+    {
+        "message": "Hola! Vas a venir?",
+        "sender": 46,
+        "receptant": 72,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2016-04-20"
+    },
+    {
+        "message": "Hey! Está difícil la tarea. 10 - 4.",
+        "sender": 47,
+        "receptant": 13,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-11-17"
+    },
+    {
+        "message": "Buena! Viste las noticias?",
+        "sender": 47,
+        "receptant": 119,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-02-27"
+    },
+    {
+        "message": "Buena! Quiero jugar Megaman. Eso me tiene mal.",
+        "sender": 47,
+        "receptant": 63,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-12-15"
+    },
+    {
+        "message": "Cómo estás? Ayer hice un sendero muy fácil. Eso me tiene bien.",
+        "sender": 47,
+        "receptant": 106,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-08-08"
+    },
+    {
+        "message": "Tanto tiempo! Vi a un ballet anoche. Cuando un partido?",
+        "sender": 47,
+        "receptant": 36,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-12-19"
+    },
+    {
+        "message": "Sucede que: Estamos preparando material para el nuevo disco. Jijiji.",
+        "sender": 47,
+        "receptant": 113,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-10-11"
+    },
+    {
+        "message": "Cómo estás?",
+        "sender": 47,
+        "receptant": 6,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-03-09"
+    },
+    {
+        "message": "Cómo estás? Está difícil la tarea. Cuando un partido?",
+        "sender": 48,
+        "receptant": 26,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-08-17"
+    },
+    {
+        "message": "Sucede que: Estoy intentando aprobar el test de turing. Jajajajaja.",
+        "sender": 48,
+        "receptant": 139,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2016-06-05"
+    },
+    {
+        "message": "Tenemos que hablar. Me comí un completo. Eso me tiene mal.",
+        "sender": 48,
+        "receptant": 82,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2016-11-03"
+    },
+    {
+        "message": "Sucede que: Mi muñeca me habló. Eso me tiene mal.",
+        "sender": 48,
+        "receptant": 150,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-06-19"
+    },
+    {
+        "message": "Hey! Escuché la nueva canción de Metallica. Jajajajaja.",
+        "sender": 48,
+        "receptant": 43,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-07-16"
+    },
+    {
+        "message": "Sucede que: Quiero NebCoins. Cambio y fuera.",
+        "sender": 48,
+        "receptant": 99,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-09-15"
+    },
+    {
+        "message": "Cómo estás? Vi a un ballet anoche. Jajajajaja.",
+        "sender": 49,
+        "receptant": 25,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-05-03"
+    },
+    {
+        "message": "Tenemos que hablar. Mi muñeca me habló. 10 - 4.",
+        "sender": 49,
+        "receptant": 74,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-10-16"
+    },
+    {
+        "message": "Pasó algo. Quiero jugar Megaman. ",
+        "sender": 49,
+        "receptant": 90,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-07-27"
+    },
+    {
+        "message": "Sucede que: Hice un pingüino de origami. Espero que nos juntemos pronto.",
+        "sender": 49,
+        "receptant": 98,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-08-04"
+    },
+    {
+        "message": "Buena! No sé qué pensé al comprar NebCoins. 10 - 4.",
+        "sender": 50,
+        "receptant": 115,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-12-23"
+    },
+    {
+        "message": "Tanto tiempo! El nuevo restaurant me gusta mucho. Eso me tiene mal.",
+        "sender": 50,
+        "receptant": 93,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-05-28"
+    },
+    {
+        "message": "Tanto tiempo! Keep calm and buy NebCoins. Cuando un partido?",
+        "sender": 50,
+        "receptant": 22,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-05-07"
+    },
+    {
+        "message": "Tenemos que hablar. No sé qué pensé al comprar NebCoins. Espero que nos juntemos pronto.",
+        "sender": 50,
+        "receptant": 148,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-11-14"
+    },
+    {
+        "message": "Tanto tiempo! Quiero hacer el tour de Robert Langdon por Roma. Cuando un partido?",
+        "sender": 50,
+        "receptant": 34,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-05-28"
+    },
+    {
+        "message": "Cómo estás? No sé que hacer. Cambio y fuera.",
+        "sender": 50,
+        "receptant": 3,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-04-15"
+    },
+    {
+        "message": "Tanto tiempo! Cobreloa es el mejor equipo del mundo. Eso me tiene bien.",
+        "sender": 51,
+        "receptant": 111,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-05-15"
+    },
+    {
+        "message": "Pasó algo. Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. ",
+        "sender": 51,
+        "receptant": 16,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-07-17"
+    },
+    {
+        "message": "Viste las noticias?",
+        "sender": 51,
+        "receptant": 131,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-06-27"
+    },
+    {
+        "message": "Tenemos que hablar. No recuerdo nada. Cuando un partido?",
+        "sender": 51,
+        "receptant": 124,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-06-10"
+    },
+    {
+        "message": "Tenemos que hablar. Te odio. Eso me hace feliz.",
+        "sender": 51,
+        "receptant": 18,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-05-05"
+    },
+    {
+        "message": "Vienes en camino?",
+        "sender": 52,
+        "receptant": 159,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2018-04-10"
+    },
+    {
+        "message": "Hola! Estudiaste BD?",
+        "sender": 52,
+        "receptant": 39,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2017-01-01"
+    },
+    {
+        "message": "Buena! Está difícil la tarea. Espero que nos juntemos pronto.",
+        "sender": 52,
+        "receptant": 9,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-02-11"
+    },
+    {
+        "message": "Cómo estás? Te quiero 3000. Eso me tiene mal.",
+        "sender": 52,
+        "receptant": 113,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-08-03"
+    },
+    {
+        "message": "Buena! Escuché la nueva canción de Metallica. Cambio y fuera.",
+        "sender": 52,
+        "receptant": 38,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-05-05"
+    },
+    {
+        "message": "Hola! Me voy de viaje. ",
+        "sender": 53,
+        "receptant": 154,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-06-03"
+    },
+    {
+        "message": "Cómo va tu curso de origami?",
+        "sender": 53,
+        "receptant": 128,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-02-14"
+    },
+    {
+        "message": "Hey! Fue falta profe! Espero que nos juntemos pronto.",
+        "sender": 53,
+        "receptant": 40,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-11-16"
+    },
+    {
+        "message": "Pasó algo. Estuve pensando en lo de P y NP. Espero que nos juntemos pronto.",
+        "sender": 54,
+        "receptant": 95,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2017-04-13"
+    },
+    {
+        "message": "Te cuento que: Quiero NebCoins. Me despido, salu3.",
+        "sender": 54,
+        "receptant": 95,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-05-06"
+    },
+    {
+        "message": "Sucede que: Estuve pensando en lo de P y NP. Jijiji.",
+        "sender": 54,
+        "receptant": 88,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2017-11-26"
+    },
+    {
+        "message": "Tanto tiempo! Me voy de viaje. Eso me tiene bien.",
+        "sender": 55,
+        "receptant": 86,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-02-26"
+    },
+    {
+        "message": "Tanto tiempo! Hoy compré pan con NebCoins. Jajajajaja.",
+        "sender": 55,
+        "receptant": 75,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-02-21"
+    },
+    {
+        "message": "Sucede que: Ayer hice un sendero muy fácil. Jajajajaja.",
+        "sender": 55,
+        "receptant": 36,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-12-23"
+    },
+    {
+        "message": "Hiciste la tarea de BD?",
+        "sender": 55,
+        "receptant": 30,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-12-01"
+    },
+    {
+        "message": "Tanto tiempo! Está difícil la tarea. Eso me hace feliz.",
+        "sender": 55,
+        "receptant": 160,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-12-19"
+    },
+    {
+        "message": "Pasó algo. Perdí mi pingüino. Jajajajaja.",
+        "sender": 55,
+        "receptant": 89,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-01-21"
+    },
+    {
+        "message": "Cómo estás? Keep calm and buy NebCoins. Jijiji.",
+        "sender": 55,
+        "receptant": 153,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-04-17"
+    },
+    {
+        "message": "Tanto tiempo! Mi muñeca me habló. 10 - 4.",
+        "sender": 56,
+        "receptant": 76,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-04-23"
+    },
+    {
+        "message": "Te cuento que: Mi muñeca me habló. Me despido, salu5.",
+        "sender": 56,
+        "receptant": 118,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-12-07"
+    },
+    {
+        "message": "Te cuento que: Quiero NebCoins. ",
+        "sender": 56,
+        "receptant": 4,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2018-07-13"
+    },
+    {
+        "message": "Tanto tiempo! Perdí mi pingüino. No sé que hacer al respecto.",
+        "sender": 56,
+        "receptant": 117,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-12-19"
+    },
+    {
+        "message": "Cómo va tu curso de origami?",
+        "sender": 57,
+        "receptant": 34,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-02-08"
+    },
+    {
+        "message": "Tanto tiempo! Keep calm and buy NebCoins. Eso me tiene mal.",
+        "sender": 57,
+        "receptant": 2,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-01-12"
+    },
+    {
+        "message": "Tenemos que hablar. Me voy de viaje. Cuando un partido?",
+        "sender": 57,
+        "receptant": 56,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-11-12"
+    },
+    {
+        "message": "Tanto tiempo! Vas a venir?",
+        "sender": 57,
+        "receptant": 49,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-09-03"
+    },
+    {
+        "message": "Sucede que: Keep calm and buy NebCoins. Jijiji.",
+        "sender": 57,
+        "receptant": 146,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-01-27"
+    },
+    {
+        "message": "Hola! Pensaste en la propuesta?",
+        "sender": 57,
+        "receptant": 67,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-07-03"
+    },
+    {
+        "message": "Hey! Vi a un ballet anoche. Jajajajaja.",
+        "sender": 58,
+        "receptant": 35,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2017-12-04"
+    },
+    {
+        "message": "Hey! Quiero hacer el tour de Robert Langdon por Roma. Eso me tiene mal.",
+        "sender": 58,
+        "receptant": 38,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-02-19"
+    },
+    {
+        "message": "Tenemos que hablar. Hoy compré pan con NebCoins. Espero que nos juntemos pronto.",
+        "sender": 58,
+        "receptant": 23,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2017-02-06"
+    },
+    {
+        "message": "Sucede que: No lo sé Rick, parece falso. Me despido, saludos.",
+        "sender": 59,
+        "receptant": 82,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-01-27"
+    },
+    {
+        "message": "Te cuento que: Está difícil la tarea. Jijiji.",
+        "sender": 59,
+        "receptant": 119,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2016-05-08"
+    },
+    {
+        "message": "Sucede que: Me quiero ir del Barça. Jijiji.",
+        "sender": 59,
+        "receptant": 57,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2015-08-26"
+    },
+    {
+        "message": "Hola! Vas a venir?",
+        "sender": 59,
+        "receptant": 73,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-06-14"
+    },
+    {
+        "message": "Sucede que: Dame tus datos para mandarte las NebCoins. Eso me hace feliz.",
+        "sender": 59,
+        "receptant": 107,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2016-11-03"
+    },
+    {
+        "message": "Tanto tiempo! Me quiero ir del Barça. Me despido, salu3.",
+        "sender": 59,
+        "receptant": 134,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2015-01-15"
+    },
+    {
+        "message": "Pensaste en la propuesta?",
+        "sender": 59,
+        "receptant": 135,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-02-10"
+    },
+    {
+        "message": "Hola! Me encanta el grunge. ",
+        "sender": 60,
+        "receptant": 88,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-03-04"
+    },
+    {
+        "message": "Pasó algo. Quiero jugar PokémonMe despido, salu5.",
+        "sender": 60,
+        "receptant": 11,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-06-16"
+    },
+    {
+        "message": "Cómo estás? No lo sé Rick, parece falso. Eso me hace feliz.",
+        "sender": 60,
+        "receptant": 145,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-06-08"
+    },
+    {
+        "message": "Buena! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Jajajajaja.",
+        "sender": 61,
+        "receptant": 26,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-03-18"
+    },
+    {
+        "message": "Cómo estás? Me encanta el grunge. Cambio y fuera.",
+        "sender": 61,
+        "receptant": 134,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-01-07"
+    },
+    {
+        "message": "Hey! Quiero organizar una fiesta de té. Eso me hace feliz.",
+        "sender": 61,
+        "receptant": 111,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-03-11"
+    },
+    {
+        "message": "Pasó algo. Dame tus datos para mandarte las NebCoins. Me despido, salu3.",
+        "sender": 61,
+        "receptant": 144,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-05-01"
+    },
+    {
+        "message": "Tenemos que hablar. Ayer hice un sendero muy fácil. Me despido, salu3.",
+        "sender": 61,
+        "receptant": 142,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-02-18"
+    },
+    {
+        "message": "Tanto tiempo! Estudiaste BD?",
+        "sender": 62,
+        "receptant": 49,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-12-17"
+    },
+    {
+        "message": "Tenemos que hablar. Fue falta profe! Eso me hace feliz.",
+        "sender": 62,
+        "receptant": 134,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-12-05"
+    },
+    {
+        "message": "Has ido al nuevo restaurant?",
+        "sender": 62,
+        "receptant": 129,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-06-03"
+    },
+    {
+        "message": "Buena! Me encanta el reggaetton. No sé que hacer al respecto.",
+        "sender": 62,
+        "receptant": 120,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-01-08"
+    },
+    {
+        "message": "Buena! Hoy compré pan con NebCoins. Eso me tiene bien.",
+        "sender": 62,
+        "receptant": 138,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-03-20"
+    },
+    {
+        "message": "Buena! Has ido al nuevo restaurant?",
+        "sender": 63,
+        "receptant": 2,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-12-22"
+    },
+    {
+        "message": "Cómo estás? Perdí mi pingüino. Jijiji.",
+        "sender": 63,
+        "receptant": 138,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-06-04"
+    },
+    {
+        "message": "Hey! Me gustó el hotel que reservé. Me despido, saludos.",
+        "sender": 63,
+        "receptant": 34,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-08-15"
+    },
+    {
+        "message": "Hola! This is no time for caution, TARS. Espero que nos juntemos pronto.",
+        "sender": 63,
+        "receptant": 123,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-02-04"
+    },
+    {
+        "message": "Buena! Quiero organizar una fiesta de té. Me despido, saludos.",
+        "sender": 63,
+        "receptant": 86,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-11-03"
+    },
+    {
+        "message": "Hola! Está difícil la tarea. Eso me tiene bien.",
+        "sender": 64,
+        "receptant": 136,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-08-01"
+    },
+    {
+        "message": "Tanto tiempo! Cobreloa es el mejor equipo del mundo. 10 - 4.",
+        "sender": 64,
+        "receptant": 157,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2015-03-03"
+    },
+    {
+        "message": "Hey! Quería saber cómo va tu día. Eso me tiene bien.",
+        "sender": 64,
+        "receptant": 159,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-06-05"
+    },
+    {
+        "message": "Buena! Estuve pensando en lo de P y NP. 10 - 4.",
+        "sender": 64,
+        "receptant": 79,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-03-16"
+    },
+    {
+        "message": "Pasó algo. Quiero jugar Megaman. ",
+        "sender": 64,
+        "receptant": 45,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-08-10"
+    },
+    {
+        "message": "Cómo estás? Quiero hacer el tour de Robert Langdon por Roma. Cuando un partido?",
+        "sender": 65,
+        "receptant": 34,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2017-12-07"
+    },
+    {
+        "message": "Tenemos que hablar. Odio el reggaetton. Espero que nos juntemos pronto.",
+        "sender": 65,
+        "receptant": 160,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2017-07-16"
+    },
+    {
+        "message": "Buena! Me voy de viaje. Jijiji.",
+        "sender": 65,
+        "receptant": 49,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2015-07-17"
+    },
+    {
+        "message": "Sucede que: Me quiero ir del Barça. Eso me hace feliz.",
+        "sender": 65,
+        "receptant": 89,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2018-08-18"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero jugar PokémonMe despido, salu5.",
+        "sender": 65,
+        "receptant": 98,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2016-07-14"
+    },
+    {
+        "message": "Tanto tiempo! Quiero jugar PokémonEso me tiene bien.",
+        "sender": 65,
+        "receptant": 116,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2018-11-28"
+    },
+    {
+        "message": "Pasó algo. Me gustó el hotel que reservé. Eso me tiene mal.",
+        "sender": 65,
+        "receptant": 82,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2016-03-02"
+    },
+    {
+        "message": "Hola! Vienes en camino?",
+        "sender": 66,
+        "receptant": 102,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-11-24"
+    },
+    {
+        "message": "Pasó algo. Me voy de viaje. Me despido, salu3.",
+        "sender": 66,
+        "receptant": 82,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-08-22"
+    },
+    {
+        "message": "Te cuento que: No sé si invertir en NebCoins. 10 - 4.",
+        "sender": 66,
+        "receptant": 70,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-01-05"
+    },
+    {
+        "message": "Hey! Dame tus datos para mandarte las NebCoins. Espero que nos juntemos pronto.",
+        "sender": 66,
+        "receptant": 138,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-08-15"
+    },
+    {
+        "message": "Hey! Keep calm and buy NebCoins. Eso me tiene mal.",
+        "sender": 66,
+        "receptant": 4,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-02-19"
+    },
+    {
+        "message": "Tanto tiempo! Quiero jugar Megaman. Me despido, salu5.",
+        "sender": 66,
+        "receptant": 109,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-10-24"
+    },
+    {
+        "message": "Buena! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Cuando un partido?",
+        "sender": 66,
+        "receptant": 138,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-12-28"
+    },
+    {
+        "message": "Cómo estás? Me gustó el hotel que reservé. ",
+        "sender": 67,
+        "receptant": 123,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-09-26"
+    },
+    {
+        "message": "Te cuento que: Me robé su corazón. ",
+        "sender": 67,
+        "receptant": 95,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-03-07"
+    },
+    {
+        "message": "Pasó algo. Fue falta profe! Jajajajaja.",
+        "sender": 67,
+        "receptant": 160,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-12-08"
+    },
+    {
+        "message": "Tanto tiempo! Me comí un churrasco. Cuando un partido?",
+        "sender": 67,
+        "receptant": 149,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2015-06-04"
+    },
+    {
+        "message": "Hola! Vi a un ballet anoche. No sé que hacer al respecto.",
+        "sender": 67,
+        "receptant": 3,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-10-23"
+    },
+    {
+        "message": "Sucede que: Ayer hice un sendero muy fácil. 10 - 4.",
+        "sender": 67,
+        "receptant": 156,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-12-09"
+    },
+    {
+        "message": "Pasó algo. Hubo un gol de Audax. 10 - 4.",
+        "sender": 68,
+        "receptant": 121,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-03-21"
+    },
+    {
+        "message": "Te cuento que: El nuevo restaurant me gusta mucho. No sé que hacer al respecto.",
+        "sender": 68,
+        "receptant": 39,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-04-12"
+    },
+    {
+        "message": "Pasó algo. Pensé en lo que el paso de las estaciones significa en mi vida. Jijiji.",
+        "sender": 68,
+        "receptant": 42,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-12-28"
+    },
+    {
+        "message": "Pasó algo. Estamos preparando material para el nuevo disco. Cambio y fuera.",
+        "sender": 68,
+        "receptant": 18,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-03-11"
+    },
+    {
+        "message": "Cómo estás? Alcancé el equilibrio espiritual. 10 - 4.",
+        "sender": 68,
+        "receptant": 39,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-12-21"
+    },
+    {
+        "message": "Tanto tiempo! Ayer hcie un sendero muy difícil. Jajajajaja.",
+        "sender": 68,
+        "receptant": 89,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-08-17"
+    },
+    {
+        "message": "Viste las noticias?",
+        "sender": 68,
+        "receptant": 117,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-12-24"
+    },
+    {
+        "message": "Buena! Pensaste en la propuesta?",
+        "sender": 69,
+        "receptant": 153,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-04-27"
+    },
+    {
+        "message": "Hey! No lo sé Rick, parece falso. ",
+        "sender": 69,
+        "receptant": 46,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-12-11"
+    },
+    {
+        "message": "Cómo estás? Escuché la nueva canción de Metallica. Jijiji.",
+        "sender": 69,
+        "receptant": 119,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-02-16"
+    },
+    {
+        "message": "Tanto tiempo! Tengo que estudiar Bases de Datos. Jajajajaja.",
+        "sender": 69,
+        "receptant": 73,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2015-12-05"
+    },
+    {
+        "message": "Tanto tiempo! Di un concierto anoche. Me despido, saludos.",
+        "sender": 69,
+        "receptant": 63,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-03-28"
+    },
+    {
+        "message": "Pasó algo. No recuerdo nada. 10 - 4.",
+        "sender": 70,
+        "receptant": 100,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-06-16"
+    },
+    {
+        "message": "Hola! Estoy borracho. Cuando un partido?",
+        "sender": 70,
+        "receptant": 101,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2018-09-19"
+    },
+    {
+        "message": "Hey! Palestino es muy grande. Me despido, salu3.",
+        "sender": 70,
+        "receptant": 139,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2018-07-27"
+    },
+    {
+        "message": "Tanto tiempo! Vas a venir?",
+        "sender": 70,
+        "receptant": 38,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2017-02-24"
+    },
+    {
+        "message": "Hey! Me encanta el reggaetton. Eso me tiene bien.",
+        "sender": 70,
+        "receptant": 15,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-07-22"
+    },
+    {
+        "message": "Sucede que: No lo sé Rick, parece falso. ",
+        "sender": 71,
+        "receptant": 115,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2017-05-02"
+    },
+    {
+        "message": "Buena! Quiero organizar una fiesta de té. Eso me hace feliz.",
+        "sender": 71,
+        "receptant": 98,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-02-24"
+    },
+    {
+        "message": "Pasó algo. Me lesioné. Me despido, salu3.",
+        "sender": 71,
+        "receptant": 15,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-03-03"
+    },
+    {
+        "message": "Sucede que: Dame tus datos para mandarte las NebCoins. Me despido, saludos.",
+        "sender": 71,
+        "receptant": 35,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-06-09"
+    },
+    {
+        "message": "Hola! Vi a un ballet anoche. Me despido, salu3.",
+        "sender": 72,
+        "receptant": 92,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-11-19"
+    },
+    {
+        "message": "Hola! Cómo va tu curso de origami?",
+        "sender": 72,
+        "receptant": 152,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-11-09"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero organizar una fiesta de té. Espero que nos juntemos pronto.",
+        "sender": 72,
+        "receptant": 60,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-09-09"
+    },
+    {
+        "message": "Hey! I like turtles :). Espero que nos juntemos pronto.",
+        "sender": 72,
+        "receptant": 15,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-02-22"
+    },
+    {
+        "message": "Cómo estás? Hoy compré pan con NebCoins. Cuando un partido?",
+        "sender": 72,
+        "receptant": 14,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-01-24"
+    },
+    {
+        "message": "Sucede que: Estamos preparando material para el nuevo disco. Eso me tiene bien.",
+        "sender": 73,
+        "receptant": 110,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-07-09"
+    },
+    {
+        "message": "Hey! Quiero NebCoins. Cambio y fuera.",
+        "sender": 73,
+        "receptant": 87,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2015-04-20"
+    },
+    {
+        "message": "Pasó algo. Descubrí que sobre las nubes vuela el aliento. 10 - 4.",
+        "sender": 73,
+        "receptant": 53,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-09-10"
+    },
+    {
+        "message": "Sucede que: Ayer hcie un sendero muy difícil. 10 - 4.",
+        "sender": 73,
+        "receptant": 80,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-01-23"
+    },
+    {
+        "message": "Sucede que: Me comí un completo. Me despido, saludos.",
+        "sender": 73,
+        "receptant": 152,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2017-05-02"
+    },
+    {
+        "message": "Te cuento que: Vi a un ballet anoche. Jijiji.",
+        "sender": 74,
+        "receptant": 97,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-09-19"
+    },
+    {
+        "message": "Hola! Bailé hasta muy tarde. Jajajajaja.",
+        "sender": 74,
+        "receptant": 7,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-12-09"
+    },
+    {
+        "message": "Hola! Estudiaste BD?",
+        "sender": 74,
+        "receptant": 57,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-12-15"
+    },
+    {
+        "message": "Tenemos que hablar. El nuevo restaurant me gusta mucho. No sé que hacer al respecto.",
+        "sender": 74,
+        "receptant": 157,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-01-16"
+    },
+    {
+        "message": "Buena! No recuerdo nada. Jajajajaja.",
+        "sender": 75,
+        "receptant": 31,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2017-11-24"
+    },
+    {
+        "message": "Cómo estás? I like turtles :). Cuando un partido?",
+        "sender": 75,
+        "receptant": 5,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-07-15"
+    },
+    {
+        "message": "Tenemos que hablar. Estamos preparando material para el nuevo disco. Me despido, salu3.",
+        "sender": 75,
+        "receptant": 42,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-07-02"
+    },
+    {
+        "message": "Tenemos que hablar. Me gustó el hotel que reservé. Espero que nos juntemos pronto.",
+        "sender": 75,
+        "receptant": 100,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-12-16"
+    },
+    {
+        "message": "Tanto tiempo! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. No sé que hacer al respecto.",
+        "sender": 75,
+        "receptant": 121,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-07-02"
+    },
+    {
+        "message": "Hey! Me comí un completo. Jajajajaja.",
+        "sender": 75,
+        "receptant": 65,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2017-01-03"
+    },
+    {
+        "message": "Hey! Fue falta profe! Espero que nos juntemos pronto.",
+        "sender": 75,
+        "receptant": 145,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-11-14"
+    },
+    {
+        "message": "Cómo estás? Di un concierto anoche. Cuando un partido?",
+        "sender": 76,
+        "receptant": 81,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2018-06-26"
+    },
+    {
+        "message": "Pasó algo. This is no time for caution, TARS. Jijiji.",
+        "sender": 76,
+        "receptant": 42,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-11-25"
+    },
+    {
+        "message": "Estudiaste BD?",
+        "sender": 76,
+        "receptant": 87,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-11-19"
+    },
+    {
+        "message": "Cómo estás? Alcancé el equilibrio espiritual. ",
+        "sender": 76,
+        "receptant": 51,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-01-08"
+    },
+    {
+        "message": "Hey! Quiero jugar Megaman. Me despido, salu5.",
+        "sender": 76,
+        "receptant": 153,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-05-02"
+    },
+    {
+        "message": "Buena! Cómo estás?",
+        "sender": 76,
+        "receptant": 100,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-12-20"
+    },
+    {
+        "message": "Te cuento que: I like turtles :). Cambio y fuera.",
+        "sender": 76,
+        "receptant": 103,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-07-19"
+    },
+    {
+        "message": "Viste las noticias?",
+        "sender": 77,
+        "receptant": 145,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2015-07-11"
+    },
+    {
+        "message": "Hey! Dame tus datos para mandarte las NebCoins. Cuando un partido?",
+        "sender": 77,
+        "receptant": 17,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-07-15"
+    },
+    {
+        "message": "Sucede que: This is no time for caution, TARS. 10 - 4.",
+        "sender": 77,
+        "receptant": 132,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-05-18"
+    },
+    {
+        "message": "Tenemos que hablar. Me lesioné. No sé que hacer al respecto.",
+        "sender": 78,
+        "receptant": 61,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2016-04-24"
+    },
+    {
+        "message": "Cómo estás? No sé que hacer. Cambio y fuera.",
+        "sender": 78,
+        "receptant": 61,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-06-21"
+    },
+    {
+        "message": "Buena! Mi muñeca me habló. Eso me tiene bien.",
+        "sender": 78,
+        "receptant": 148,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-08-12"
+    },
+    {
+        "message": "Sucede que: Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Eso me tiene bien.",
+        "sender": 78,
+        "receptant": 39,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-04-15"
+    },
+    {
+        "message": "Sucede que: Hubo un gol de Audax. ",
+        "sender": 79,
+        "receptant": 115,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2015-01-26"
+    },
+    {
+        "message": "Tanto tiempo! Pensaste en la propuesta?",
+        "sender": 79,
+        "receptant": 31,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-05-12"
+    },
+    {
+        "message": "Tanto tiempo! Ayer hcie un sendero muy difícil. Cuando un partido?",
+        "sender": 79,
+        "receptant": 96,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-06-17"
+    },
+    {
+        "message": "Cómo estás? Quiero gastar un par de NebCoins. 10 - 4.",
+        "sender": 80,
+        "receptant": 81,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-06-20"
+    },
+    {
+        "message": "Hola! Vienes en camino?",
+        "sender": 80,
+        "receptant": 104,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-12-09"
+    },
+    {
+        "message": "Tanto tiempo! No recuerdo nada. Me despido, salu3.",
+        "sender": 80,
+        "receptant": 152,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-09-15"
+    },
+    {
+        "message": "Buena! Hice un pingüino de origami. Espero que nos juntemos pronto.",
+        "sender": 80,
+        "receptant": 118,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-03-07"
+    },
+    {
+        "message": "Cómo estás? Me quiero ir del Barça. Cambio y fuera.",
+        "sender": 80,
+        "receptant": 151,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-04-18"
+    },
+    {
+        "message": "Sucede que: Pensé en lo que el paso de las estaciones significa en mi vida. Jajajajaja.",
+        "sender": 80,
+        "receptant": 151,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-07-09"
+    },
+    {
+        "message": "Tanto tiempo! Cómo estás?",
+        "sender": 81,
+        "receptant": 120,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2018-12-01"
+    },
+    {
+        "message": "Hola! Estoy intentando aprobar el test de turing. Eso me tiene bien.",
+        "sender": 81,
+        "receptant": 136,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-08-14"
+    },
+    {
+        "message": "Buena! Quiero hacer el tour de Robert Langdon por Roma. Jajajajaja.",
+        "sender": 81,
+        "receptant": 88,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-01-21"
+    },
+    {
+        "message": "Cómo estás? Ayer hice un sendero muy fácil. Eso me hace feliz.",
+        "sender": 81,
+        "receptant": 14,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2018-02-06"
+    },
+    {
+        "message": "Te cuento que: El nuevo restaurant me gusta mucho. Me despido, saludos.",
+        "sender": 81,
+        "receptant": 4,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-10-23"
+    },
+    {
+        "message": "Tenemos que hablar. I like turtles :). Me despido, salu5.",
+        "sender": 81,
+        "receptant": 129,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-07-09"
+    },
+    {
+        "message": "Te cuento que: Me robé su corazón. Espero que nos juntemos pronto.",
+        "sender": 82,
+        "receptant": 122,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-05-10"
+    },
+    {
+        "message": "Pasó algo. Escuché la nueva canción de Metallica. Cambio y fuera.",
+        "sender": 82,
+        "receptant": 116,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2018-09-19"
+    },
+    {
+        "message": "Tanto tiempo! Vas a venir?",
+        "sender": 82,
+        "receptant": 10,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-11-28"
+    },
+    {
+        "message": "Tenemos que hablar. Lorem ipsum dolor sit amet. Me despido, saludos.",
+        "sender": 82,
+        "receptant": 139,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2018-11-09"
+    },
+    {
+        "message": "Cómo estás? Me lesioné. Eso me tiene bien.",
+        "sender": 82,
+        "receptant": 158,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-05-24"
+    },
+    {
+        "message": "Buena! Alcancé el equilibrio espiritual. 10 - 4.",
+        "sender": 82,
+        "receptant": 76,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-06-02"
+    },
+    {
+        "message": "Tanto tiempo! Lorem ipsum dolor sit amet. ",
+        "sender": 83,
+        "receptant": 152,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-10-13"
+    },
+    {
+        "message": "Buena! Hiciste la tarea de BD?",
+        "sender": 83,
+        "receptant": 138,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-11-03"
+    },
+    {
+        "message": "Cómo estás? El nuevo restaurant me gusta mucho. Espero que nos juntemos pronto.",
+        "sender": 83,
+        "receptant": 54,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-10-27"
+    },
+    {
+        "message": "Te cuento que: I like turtles :). 10 - 4.",
+        "sender": 84,
+        "receptant": 137,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-08-16"
+    },
+    {
+        "message": "Tanto tiempo! Estudiaste BD?",
+        "sender": 84,
+        "receptant": 129,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-01-26"
+    },
+    {
+        "message": "Sucede que: Me comí un churrasco. Eso me tiene mal.",
+        "sender": 84,
+        "receptant": 133,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-11-14"
+    },
+    {
+        "message": "Te cuento que: I like turtles :). ",
+        "sender": 84,
+        "receptant": 85,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-09-08"
+    },
+    {
+        "message": "Buena! Me encanta el reggaetton. ",
+        "sender": 85,
+        "receptant": 48,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-09-10"
+    },
+    {
+        "message": "Hey! Te odio. Cambio y fuera.",
+        "sender": 85,
+        "receptant": 67,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-10-19"
+    },
+    {
+        "message": "Pasó algo. Estamos preparando material para el nuevo disco. Espero que nos juntemos pronto.",
+        "sender": 85,
+        "receptant": 74,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-11-22"
+    },
+    {
+        "message": "Te cuento que: Quiero jugar PokémonJijiji.",
+        "sender": 85,
+        "receptant": 56,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2016-01-21"
+    },
+    {
+        "message": "Buena! No sé si invertir en NebCoins. ",
+        "sender": 86,
+        "receptant": 42,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-05-06"
+    },
+    {
+        "message": "Buena! Me comí un churrasco. Me despido, saludos.",
+        "sender": 86,
+        "receptant": 68,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-01-08"
+    },
+    {
+        "message": "Hola! Dame tus datos para mandarte las NebCoins. No sé que hacer al respecto.",
+        "sender": 86,
+        "receptant": 108,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-09-05"
+    },
+    {
+        "message": "Sucede que: No sé si invertir en NebCoins. 10 - 4.",
+        "sender": 86,
+        "receptant": 10,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-05-07"
+    },
+    {
+        "message": "Cómo estás? Di un concierto anoche. 10 - 4.",
+        "sender": 86,
+        "receptant": 66,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-06-10"
+    },
+    {
+        "message": "Hola! El nuevo restaurant me gusta mucho. Me despido, salu3.",
+        "sender": 87,
+        "receptant": 35,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-11-25"
+    },
+    {
+        "message": "Hey! No sé que hacer. Cambio y fuera.",
+        "sender": 87,
+        "receptant": 35,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-10-02"
+    },
+    {
+        "message": "Sucede que: Hubo un gol de Audax. Cambio y fuera.",
+        "sender": 87,
+        "receptant": 51,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-01-05"
+    },
+    {
+        "message": "Cómo estás? I like turtles :). Jijiji.",
+        "sender": 87,
+        "receptant": 55,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-04-11"
+    },
+    {
+        "message": "Sucede que: Canté mi canción favorita anoche. Espero que nos juntemos pronto.",
+        "sender": 87,
+        "receptant": 12,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-02-06"
+    },
+    {
+        "message": "Tanto tiempo! Vas a venir?",
+        "sender": 88,
+        "receptant": 92,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-09-28"
+    },
+    {
+        "message": "Hey! Estoy borracho. Jajajajaja.",
+        "sender": 88,
+        "receptant": 145,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-11-12"
+    },
+    {
+        "message": "Tanto tiempo! Ayer hcie un sendero muy difícil. Eso me tiene mal.",
+        "sender": 88,
+        "receptant": 127,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-07-14"
+    },
+    {
+        "message": "Hey! Odio el reggaetton. Me despido, salu5.",
+        "sender": 88,
+        "receptant": 97,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-06-04"
+    },
+    {
+        "message": "Tanto tiempo! Me comí un churrasco. Me despido, saludos.",
+        "sender": 88,
+        "receptant": 100,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-03-03"
+    },
+    {
+        "message": "Hola! Hubo un gol de Audax. 10 - 4.",
+        "sender": 89,
+        "receptant": 35,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-07-18"
+    },
+    {
+        "message": "Hey! Palestino es muy grande. Jijiji.",
+        "sender": 89,
+        "receptant": 51,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-02-07"
+    },
+    {
+        "message": "Hola! Viste las noticias?",
+        "sender": 89,
+        "receptant": 103,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-07-01"
+    },
+    {
+        "message": "Cómo estás? Palestino es muy grande. No sé que hacer al respecto.",
+        "sender": 89,
+        "receptant": 2,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-12-11"
+    },
+    {
+        "message": "Sucede que: Odio el reggaetton. Cambio y fuera.",
+        "sender": 90,
+        "receptant": 36,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-06-17"
+    },
+    {
+        "message": "Cómo estás? Hoy compré pan con NebCoins. 10 - 4.",
+        "sender": 90,
+        "receptant": 80,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-11-05"
+    },
+    {
+        "message": "Sucede que: Quiero organizar una fiesta de té. Me despido, salu5.",
+        "sender": 90,
+        "receptant": 37,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-12-13"
+    },
+    {
+        "message": "Cómo estás?",
+        "sender": 90,
+        "receptant": 111,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-11-07"
+    },
+    {
+        "message": "Hey! Palestino es muy grande. Eso me tiene mal.",
+        "sender": 90,
+        "receptant": 105,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-07-04"
+    },
+    {
+        "message": "Hey! Hubo un gol de Audax. ",
+        "sender": 90,
+        "receptant": 160,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-10-21"
+    },
+    {
+        "message": "Hola! Me gustó el hotel que reservé. Jajajajaja.",
+        "sender": 91,
+        "receptant": 26,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-03-14"
+    },
+    {
+        "message": "Hola! Has ido al nuevo restaurant?",
+        "sender": 91,
+        "receptant": 27,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-10-27"
+    },
+    {
+        "message": "Hola! Hiciste la tarea de BD?",
+        "sender": 91,
+        "receptant": 15,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-07-17"
+    },
+    {
+        "message": "Tenemos que hablar. Está difícil la tarea. Espero que nos juntemos pronto.",
+        "sender": 91,
+        "receptant": 124,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-11-20"
+    },
+    {
+        "message": "Tanto tiempo! Cómo estás?",
+        "sender": 91,
+        "receptant": 147,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-02-09"
+    },
+    {
+        "message": "Tenemos que hablar. No sé que hacer. Cuando un partido?",
+        "sender": 91,
+        "receptant": 13,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-08-11"
+    },
+    {
+        "message": "Cómo estás? Canté mi canción favorita anoche. No sé que hacer al respecto.",
+        "sender": 91,
+        "receptant": 10,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-07-25"
+    },
+    {
+        "message": "Hey! No sé si invertir en NebCoins. Eso me tiene bien.",
+        "sender": 92,
+        "receptant": 57,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-01-04"
+    },
+    {
+        "message": "Sucede que: Hubo un gol de Audax. Eso me hace feliz.",
+        "sender": 92,
+        "receptant": 133,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-03-12"
+    },
+    {
+        "message": "Buena! Perdí mi pingüino. Me despido, saludos.",
+        "sender": 92,
+        "receptant": 36,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2018-05-22"
+    },
+    {
+        "message": "Hola! Quiero organizar una fiesta de té. ",
+        "sender": 93,
+        "receptant": 25,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-06-23"
+    },
+    {
+        "message": "Cómo estás? No sé si invertir en NebCoins. Espero que nos juntemos pronto.",
+        "sender": 93,
+        "receptant": 138,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-07-09"
+    },
+    {
+        "message": "Buena! Canté mi canción favorita anoche. ",
+        "sender": 93,
+        "receptant": 127,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-09-15"
+    },
+    {
+        "message": "Buena! Estudiaste BD?",
+        "sender": 93,
+        "receptant": 126,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-03-18"
+    },
+    {
+        "message": "Hey! I like turtles :). Eso me tiene mal.",
+        "sender": 93,
+        "receptant": 26,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-05-25"
+    },
+    {
+        "message": "Buena! No lo sé Rick, parece falso. ",
+        "sender": 93,
+        "receptant": 57,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-01-25"
+    },
+    {
+        "message": "Hey! Me lesioné. Me despido, salu3.",
+        "sender": 94,
+        "receptant": 108,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-12-18"
+    },
+    {
+        "message": "Hola! Me quiero ir del United. Cambio y fuera.",
+        "sender": 94,
+        "receptant": 116,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-12-17"
+    },
+    {
+        "message": "Tenemos que hablar. Hice un pingüino de origami. Jajajajaja.",
+        "sender": 94,
+        "receptant": 90,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-04-07"
+    },
+    {
+        "message": "Buena! Hoy compré pan con NebCoins. Me despido, saludos.",
+        "sender": 94,
+        "receptant": 119,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-03-15"
+    },
+    {
+        "message": "Hey! Descubrí que sobre las nubes vuela el aliento. Cuando un partido?",
+        "sender": 94,
+        "receptant": 11,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-04-28"
+    },
+    {
+        "message": "Sucede que: Hoy compré pan con NebCoins. Me despido, salu5.",
+        "sender": 94,
+        "receptant": 141,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-11-03"
+    },
+    {
+        "message": "Pasó algo. Alcancé el equilibrio espiritual. Jijiji.",
+        "sender": 95,
+        "receptant": 87,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2015-03-28"
+    },
+    {
+        "message": "Pasó algo. Estamos preparando material para el nuevo disco. Eso me tiene bien.",
+        "sender": 95,
+        "receptant": 30,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-07-05"
+    },
+    {
+        "message": "Pasó algo. Perdí mi pingüino. Cuando un partido?",
+        "sender": 95,
+        "receptant": 38,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-06-23"
+    },
+    {
+        "message": "Buena! Hiciste la tarea de BD?",
+        "sender": 95,
+        "receptant": 28,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2015-12-22"
+    },
+    {
+        "message": "Hey! Me quiero ir del Barça. Eso me hace feliz.",
+        "sender": 95,
+        "receptant": 35,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2017-06-07"
+    },
+    {
+        "message": "Te cuento que: Quiero gastar un par de NebCoins. Me despido, salu3.",
+        "sender": 95,
+        "receptant": 115,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-06-27"
+    },
+    {
+        "message": "Hey! Escuché la nueva canción de Metallica. 10 - 4.",
+        "sender": 95,
+        "receptant": 49,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-09-05"
+    },
+    {
+        "message": "Buena! Keep calm and buy NebCoins. Eso me tiene bien.",
+        "sender": 96,
+        "receptant": 62,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-10-13"
+    },
+    {
+        "message": "Buena! Escuché la nueva canción de Metallica. Me despido, saludos.",
+        "sender": 96,
+        "receptant": 29,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2018-09-07"
+    },
+    {
+        "message": "Sucede que: No sé qué pensé al comprar NebCoins. Eso me tiene bien.",
+        "sender": 96,
+        "receptant": 74,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-05-28"
+    },
+    {
+        "message": "Sucede que: This is no time for caution, TARS. Jijiji.",
+        "sender": 97,
+        "receptant": 147,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-01-11"
+    },
+    {
+        "message": "Sucede que: Quiero jugar Megaman. Cuando un partido?",
+        "sender": 97,
+        "receptant": 138,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-05-16"
+    },
+    {
+        "message": "Tanto tiempo! Quiero jugar Megaman. Me despido, salu5.",
+        "sender": 97,
+        "receptant": 16,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-06-21"
+    },
+    {
+        "message": "Buena! Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Me despido, salu5.",
+        "sender": 97,
+        "receptant": 119,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-02-09"
+    },
+    {
+        "message": "Cómo estás? Estoy intentando aprobar el test de turing. Jajajajaja.",
+        "sender": 98,
+        "receptant": 159,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-09-07"
+    },
+    {
+        "message": "Tanto tiempo! Me comí un churrasco. Jajajajaja.",
+        "sender": 98,
+        "receptant": 141,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-11-11"
+    },
+    {
+        "message": "Te cuento que: Quiero organizar una fiesta de té. Espero que nos juntemos pronto.",
+        "sender": 98,
+        "receptant": 76,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-07-01"
+    },
+    {
+        "message": "Hola! Me encanta el metal. Eso me tiene mal.",
+        "sender": 98,
+        "receptant": 38,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-03-11"
+    },
+    {
+        "message": "Pasó algo. Bailé hasta muy tarde. Jajajajaja.",
+        "sender": 98,
+        "receptant": 150,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-06-26"
+    },
+    {
+        "message": "Hola! Estamos preparando material para el nuevo disco. Eso me hace feliz.",
+        "sender": 99,
+        "receptant": 67,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-06-10"
+    },
+    {
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 99,
+        "receptant": 157,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2016-07-23"
+    },
+    {
+        "message": "Tenemos que hablar. Vi a un ballet anoche. Me despido, salu5.",
+        "sender": 99,
+        "receptant": 155,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-05-11"
+    },
+    {
+        "message": "Pasó algo. Estamos preparando material para el nuevo disco. Cambio y fuera.",
+        "sender": 100,
+        "receptant": 16,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-09-06"
+    },
+    {
+        "message": "Pasó algo. Te odio. Espero que nos juntemos pronto.",
+        "sender": 100,
+        "receptant": 110,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-08-21"
+    },
+    {
+        "message": "Pasó algo. Estuve pensando en lo de P y NP. No sé que hacer al respecto.",
+        "sender": 100,
+        "receptant": 12,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-04-24"
+    },
+    {
+        "message": "Buena! Odio el reggaetton. Eso me hace feliz.",
+        "sender": 100,
+        "receptant": 119,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-07-27"
+    },
+    {
+        "message": "Hey! Estamos preparando material para el nuevo disco. Eso me hace feliz.",
+        "sender": 100,
+        "receptant": 94,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2017-11-24"
+    },
+    {
+        "message": "Te cuento que: Ayer hice un sendero muy fácil. Jajajajaja.",
+        "sender": 100,
+        "receptant": 144,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-11-28"
+    },
+    {
+        "message": "Cómo estás? Estamos preparando material para el nuevo disco. Eso me tiene bien.",
+        "sender": 100,
+        "receptant": 84,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-09-09"
+    },
+    {
+        "message": "Hola! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. 10 - 4.",
+        "sender": 101,
+        "receptant": 52,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-02-01"
+    },
+    {
+        "message": "Buena! Me quiero ir del Barça. No sé que hacer al respecto.",
+        "sender": 101,
+        "receptant": 108,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-01-02"
+    },
+    {
+        "message": "Pasó algo. Me quiero ir del Barça. Cuando un partido?",
+        "sender": 101,
+        "receptant": 12,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-12-27"
+    },
+    {
+        "message": "Pasó algo. Me gustó el hotel que reservé. No sé que hacer al respecto.",
+        "sender": 101,
+        "receptant": 91,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-04-07"
+    },
+    {
+        "message": "Sucede que: Keep calm and buy NebCoins. Eso me tiene mal.",
+        "sender": 101,
+        "receptant": 160,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-01-20"
+    },
+    {
+        "message": "Hey! Dame tus datos para mandarte las NebCoins. 10 - 4.",
+        "sender": 102,
+        "receptant": 84,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-09-04"
+    },
+    {
+        "message": "Sucede que: Dame tus datos para mandarte las NebCoins. Jajajajaja.",
+        "sender": 102,
+        "receptant": 91,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-10-03"
+    },
+    {
+        "message": "Buena! Hice un pingüino de origami. Eso me tiene bien.",
+        "sender": 102,
+        "receptant": 9,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2015-11-07"
+    },
+    {
+        "message": "Hola! Está difícil la tarea. Jijiji.",
+        "sender": 102,
+        "receptant": 116,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2017-09-06"
+    },
+    {
+        "message": "Hey! Vi a un ballet anoche. Me despido, salu5.",
+        "sender": 102,
+        "receptant": 8,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2015-04-04"
+    },
+    {
+        "message": "Hola! Odio el reggaetton. Eso me hace feliz.",
+        "sender": 103,
+        "receptant": 48,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-05-09"
+    },
+    {
+        "message": "Tanto tiempo! Quería saber cómo va tu día. Eso me tiene bien.",
+        "sender": 103,
+        "receptant": 143,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-12-17"
+    },
+    {
+        "message": "Te cuento que: Fue falta profe! Cambio y fuera.",
+        "sender": 103,
+        "receptant": 109,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-02-22"
+    },
+    {
+        "message": "Hey! Lorem ipsum dolor sit amet. Jajajajaja.",
+        "sender": 103,
+        "receptant": 10,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-06-03"
+    },
+    {
+        "message": "Buena! This is no time for caution, TARS. Eso me hace feliz.",
+        "sender": 103,
+        "receptant": 56,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-01-15"
+    },
+    {
+        "message": "Sucede que: Quiero jugar PokémonJajajajaja.",
+        "sender": 103,
+        "receptant": 53,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-10-18"
+    },
+    {
+        "message": "Tenemos que hablar. Estuve pensando en lo de P y NP. Eso me hace feliz.",
+        "sender": 103,
+        "receptant": 148,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-09-01"
+    },
+    {
+        "message": "Cómo estás? Cobreloa es el mejor equipo del mundo. Me despido, salu5.",
+        "sender": 104,
+        "receptant": 103,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-10-23"
+    },
+    {
+        "message": "Sucede que: Me comí un churrasco. Me despido, saludos.",
+        "sender": 104,
+        "receptant": 109,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-07-07"
+    },
+    {
+        "message": "Hola! Hoy compré pan con NebCoins. No sé que hacer al respecto.",
+        "sender": 104,
+        "receptant": 151,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-12-24"
+    },
+    {
+        "message": "Sucede que: Me lesioné. 10 - 4.",
+        "sender": 104,
+        "receptant": 143,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-03-16"
+    },
+    {
+        "message": "Pasó algo. Estamos preparando material para el nuevo disco. Me despido, salu5.",
+        "sender": 105,
+        "receptant": 16,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2017-10-18"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero jugar Megaman. Jijiji.",
+        "sender": 105,
+        "receptant": 112,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-07-17"
+    },
+    {
+        "message": "Buena! Hice un pingüino de origami. Jajajajaja.",
+        "sender": 105,
+        "receptant": 57,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2018-12-17"
+    },
+    {
+        "message": "Buena! Hubo un gol de Audax. Eso me hace feliz.",
+        "sender": 105,
+        "receptant": 142,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2017-09-12"
+    },
+    {
+        "message": "Cómo estás? Quiero gastar un par de NebCoins. Espero que nos juntemos pronto.",
+        "sender": 105,
+        "receptant": 153,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-02-26"
+    },
+    {
+        "message": "Sucede que: El nuevo restaurant me gusta mucho. ",
+        "sender": 106,
+        "receptant": 124,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-08-20"
+    },
+    {
+        "message": "Buena! El nuevo restaurant me gusta mucho. Eso me tiene mal.",
+        "sender": 106,
+        "receptant": 19,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-05-05"
+    },
+    {
+        "message": "Tanto tiempo! Odio el reggaetton. ",
+        "sender": 106,
+        "receptant": 155,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-09-05"
+    },
+    {
+        "message": "Cómo estás? Lorem ipsum dolor sit amet. Cambio y fuera.",
+        "sender": 106,
+        "receptant": 80,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-08-23"
+    },
+    {
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 106,
+        "receptant": 89,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-01-21"
+    },
+    {
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 106,
+        "receptant": 26,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-05-06"
+    },
+    {
+        "message": "Hola! Estudiaste BD?",
+        "sender": 107,
+        "receptant": 67,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-07-17"
+    },
+    {
+        "message": "Cómo estás? Me voy de viaje. Me despido, saludos.",
+        "sender": 107,
+        "receptant": 150,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-01-23"
+    },
+    {
+        "message": "Cómo estás? Ayer hice un sendero muy fácil. Cuando un partido?",
+        "sender": 107,
+        "receptant": 113,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-04-23"
+    },
+    {
+        "message": "Sucede que: Estuve pensando en lo de P y NP. 10 - 4.",
+        "sender": 107,
+        "receptant": 160,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-04-10"
+    },
+    {
+        "message": "Tanto tiempo! Quiero gastar un par de NebCoins. Me despido, salu3.",
+        "sender": 108,
+        "receptant": 11,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2016-12-02"
+    },
+    {
+        "message": "Hola! Vi a un ballet anoche. Cuando un partido?",
+        "sender": 108,
+        "receptant": 103,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2017-02-22"
+    },
+    {
+        "message": "Hola! Mi muñeca me habló. Me despido, salu5.",
+        "sender": 108,
+        "receptant": 55,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-04-13"
+    },
+    {
+        "message": "Pasó algo. El nuevo restaurant me gusta mucho. Cambio y fuera.",
+        "sender": 109,
+        "receptant": 138,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-03-25"
+    },
+    {
+        "message": "Te cuento que: Me lesioné. Me despido, salu3.",
+        "sender": 109,
+        "receptant": 87,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-02-04"
+    },
+    {
+        "message": "Buena! This is no time for caution, TARS. No sé que hacer al respecto.",
+        "sender": 109,
+        "receptant": 102,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-02-06"
+    },
+    {
+        "message": "Pasó algo. Descubrí que sobre las nubes vuela el aliento. 10 - 4.",
+        "sender": 109,
+        "receptant": 51,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-03-03"
+    },
+    {
+        "message": "Hola! Me encanta el reggaetton. Eso me hace feliz.",
+        "sender": 109,
+        "receptant": 120,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-11-22"
+    },
+    {
+        "message": "Sucede que: Está difícil la tarea. Eso me tiene mal.",
+        "sender": 109,
+        "receptant": 129,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-04-24"
+    },
+    {
+        "message": "Te cuento que: Dame tus datos para mandarte las NebCoins. No sé que hacer al respecto.",
+        "sender": 109,
+        "receptant": 151,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-12-19"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero gastar un par de NebCoins. Eso me hace feliz.",
+        "sender": 110,
+        "receptant": 22,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-04-08"
+    },
+    {
+        "message": "Tanto tiempo! No lo sé Rick, parece falso. Me despido, salu5.",
+        "sender": 110,
+        "receptant": 70,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-02-21"
+    },
+    {
+        "message": "Pasó algo. Me encanta el grunge. Eso me hace feliz.",
+        "sender": 110,
+        "receptant": 132,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-03-02"
+    },
+    {
+        "message": "Te cuento que: No sé si invertir en NebCoins. ",
+        "sender": 110,
+        "receptant": 139,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-12-18"
+    },
+    {
+        "message": "Viste la teleserie?",
+        "sender": 110,
+        "receptant": 66,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-07-16"
+    },
+    {
+        "message": "Cómo estás? Quiero jugar Pokémon10 - 4.",
+        "sender": 110,
+        "receptant": 61,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-08-14"
+    },
+    {
+        "message": "Buena! Me comí un completo. Cuando un partido?",
+        "sender": 111,
+        "receptant": 88,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-01-11"
+    },
+    {
+        "message": "Buena! Vi a un ballet anoche. Eso me hace feliz.",
+        "sender": 111,
+        "receptant": 130,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-06-14"
+    },
+    {
+        "message": "Hey! No lo sé Rick, parece falso. Jajajajaja.",
+        "sender": 111,
+        "receptant": 114,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-09-04"
+    },
+    {
+        "message": "Sucede que: Me encanta el grunge. 10 - 4.",
+        "sender": 111,
+        "receptant": 83,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-03-04"
+    },
+    {
+        "message": "Te cuento que: Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Me despido, saludos.",
+        "sender": 111,
+        "receptant": 95,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-06-05"
+    },
+    {
+        "message": "Buena! Me comí un churrasco. Cambio y fuera.",
+        "sender": 112,
+        "receptant": 10,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-04-04"
+    },
+    {
+        "message": "Tenemos que hablar. Vi a un ballet anoche. Cambio y fuera.",
+        "sender": 112,
+        "receptant": 145,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-06-12"
+    },
+    {
+        "message": "Pasó algo. Estoy borracho. Me despido, saludos.",
+        "sender": 112,
+        "receptant": 44,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-06-26"
+    },
+    {
+        "message": "Hey! Estoy intentando aprobar el test de turing. Espero que nos juntemos pronto.",
+        "sender": 112,
+        "receptant": 78,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-09-28"
+    },
+    {
+        "message": "Hey! Me encanta el grunge. Me despido, salu3.",
+        "sender": 112,
+        "receptant": 77,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-04-06"
+    },
+    {
+        "message": "Buena! Me lesioné. Eso me tiene mal.",
+        "sender": 112,
+        "receptant": 99,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2015-10-21"
+    },
+    {
+        "message": "Hola! Estuve pensando en lo de P y NP. Eso me tiene mal.",
+        "sender": 112,
+        "receptant": 88,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-08-22"
+    },
+    {
+        "message": "Hey! Me robé su corazón. Eso me tiene mal.",
+        "sender": 113,
+        "receptant": 74,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-03-20"
+    },
+    {
+        "message": "Sucede que: Lorem ipsum dolor sit amet. Cuando un partido?",
+        "sender": 113,
+        "receptant": 73,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-10-13"
+    },
+    {
+        "message": "Buena! Pensaste en la propuesta?",
+        "sender": 113,
+        "receptant": 12,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2018-06-01"
+    },
+    {
+        "message": "Hola! Quiero gastar un par de NebCoins. Me despido, saludos.",
+        "sender": 114,
+        "receptant": 129,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2017-11-02"
+    },
+    {
+        "message": "Tenemos que hablar. Me encanta el reggaetton. Jijiji.",
+        "sender": 114,
+        "receptant": 149,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-07-18"
+    },
+    {
+        "message": "Te cuento que: Hice un pingüino de origami. Eso me tiene bien.",
+        "sender": 114,
+        "receptant": 151,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-08-27"
+    },
+    {
+        "message": "Tanto tiempo! Bailé hasta muy tarde. Jajajajaja.",
+        "sender": 114,
+        "receptant": 4,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2017-02-01"
+    },
+    {
+        "message": "Tanto tiempo! Estudiaste BD?",
+        "sender": 114,
+        "receptant": 5,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-07-09"
+    },
+    {
+        "message": "Hey! Vi a un ballet anoche. ",
+        "sender": 114,
+        "receptant": 22,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2016-02-18"
+    },
+    {
+        "message": "Pasó algo. Quería saber cómo va tu día. Cuando un partido?",
+        "sender": 114,
+        "receptant": 132,
+        "lat": -22.460037,
+        "long": -68.920895,
+        "date": "2015-04-05"
+    },
+    {
+        "message": "Cómo estás? Bailé hasta muy tarde. Me despido, saludos.",
+        "sender": 115,
+        "receptant": 112,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2017-02-24"
+    },
+    {
+        "message": "Hey! Me quiero ir del United. 10 - 4.",
+        "sender": 115,
+        "receptant": 87,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2018-08-13"
+    },
+    {
+        "message": "Tanto tiempo! Estoy intentando aprobar el test de turing. Eso me tiene mal.",
+        "sender": 115,
+        "receptant": 126,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2017-07-20"
+    },
+    {
+        "message": "Tanto tiempo! Mi muñeca me habló. Me despido, salu5.",
+        "sender": 115,
+        "receptant": 46,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2015-02-28"
+    },
+    {
+        "message": "Tanto tiempo! Vas a venir?",
+        "sender": 116,
+        "receptant": 124,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2015-02-02"
+    },
+    {
+        "message": "Cómo estás? Me encanta el grunge. Espero que nos juntemos pronto.",
+        "sender": 116,
+        "receptant": 106,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2016-03-26"
+    },
+    {
+        "message": "Tenemos que hablar. Me voy de viaje. Jajajajaja.",
+        "sender": 116,
+        "receptant": 126,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-07-04"
+    },
+    {
+        "message": "Tanto tiempo! Vienes en camino?",
+        "sender": 117,
+        "receptant": 156,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2018-07-20"
+    },
+    {
+        "message": "Hola! El nuevo restaurant me gusta mucho. Me despido, salu3.",
+        "sender": 117,
+        "receptant": 116,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-10-07"
+    },
+    {
+        "message": "Pasó algo. Ayer hice un sendero muy fácil. 10 - 4.",
+        "sender": 117,
+        "receptant": 109,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-05-26"
+    },
+    {
+        "message": "Pasó algo. Te odio. Eso me hace feliz.",
+        "sender": 117,
+        "receptant": 9,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-07-05"
+    },
+    {
+        "message": "Hey! This is no time for caution, TARS. Eso me hace feliz.",
+        "sender": 117,
+        "receptant": 73,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2018-02-12"
+    },
+    {
+        "message": "Hola! Me encanta el grunge. Me despido, salu5.",
+        "sender": 117,
+        "receptant": 80,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2017-08-23"
+    },
+    {
+        "message": "Tenemos que hablar. Estamos preparando material para el nuevo disco. Cuando un partido?",
+        "sender": 117,
+        "receptant": 106,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-12-17"
+    },
+    {
+        "message": "Tenemos que hablar. This is no time for caution, TARS. Me despido, salu5.",
+        "sender": 118,
+        "receptant": 125,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-06-22"
+    },
+    {
+        "message": "Pasó algo. Me encanta el reggaetton. 10 - 4.",
+        "sender": 118,
+        "receptant": 33,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-11-01"
+    },
+    {
+        "message": "Hola! Bailé hasta muy tarde. Eso me tiene bien.",
+        "sender": 118,
+        "receptant": 90,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-06-24"
+    },
+    {
+        "message": "Sucede que: Hoy compré pan con NebCoins. Eso me tiene mal.",
+        "sender": 118,
+        "receptant": 66,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-03-26"
+    },
+    {
+        "message": "Sucede que: Está difícil la tarea. Me despido, saludos.",
+        "sender": 118,
+        "receptant": 119,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-02-22"
+    },
+    {
+        "message": "Tanto tiempo! No sé que hacer. Cuando un partido?",
+        "sender": 119,
+        "receptant": 45,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-03-18"
+    },
+    {
+        "message": "Hola! Vas a venir?",
+        "sender": 119,
+        "receptant": 65,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-09-21"
+    },
+    {
+        "message": "Hola! Pensaste en la propuesta?",
+        "sender": 119,
+        "receptant": 9,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2017-05-16"
+    },
+    {
+        "message": "Buena! Ayer hice un sendero muy fácil. Espero que nos juntemos pronto.",
+        "sender": 119,
+        "receptant": 148,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2015-02-26"
+    },
+    {
+        "message": "Tanto tiempo! No sé que hacer. 10 - 4.",
+        "sender": 119,
+        "receptant": 17,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-03-08"
+    },
+    {
+        "message": "Hey! Estamos preparando material para el nuevo disco. Espero que nos juntemos pronto.",
+        "sender": 119,
+        "receptant": 129,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2015-04-28"
+    },
+    {
+        "message": "Pasó algo. Te odio. Cuando un partido?",
+        "sender": 120,
+        "receptant": 47,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-04-22"
+    },
+    {
+        "message": "Tanto tiempo! Vienes en camino?",
+        "sender": 120,
+        "receptant": 76,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2015-10-02"
+    },
+    {
+        "message": "Buena! Canté mi canción favorita anoche. Me despido, saludos.",
+        "sender": 120,
+        "receptant": 129,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-05-22"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero hacer el tour de Robert Langdon por Roma. No sé que hacer al respecto.",
+        "sender": 120,
+        "receptant": 125,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-07-26"
+    },
+    {
+        "message": "Sucede que: Quiero jugar Megaman. Cuando un partido?",
+        "sender": 120,
+        "receptant": 102,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-10-13"
+    },
+    {
+        "message": "Buena! Estudiaste BD?",
+        "sender": 120,
+        "receptant": 17,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-08-19"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero gastar un par de NebCoins. 10 - 4.",
+        "sender": 121,
+        "receptant": 42,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-06-09"
+    },
+    {
+        "message": "Sucede que: Quiero organizar una fiesta de té. Espero que nos juntemos pronto.",
+        "sender": 121,
+        "receptant": 152,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-08-06"
+    },
+    {
+        "message": "Te cuento que: Ayer hcie un sendero muy difícil. Jijiji.",
+        "sender": 121,
+        "receptant": 115,
+        "lat": 34.05,
+        "long": -118.25,
+        "date": "2015-11-07"
+    },
+    {
+        "message": "Pensaste lo que el paso de las estaciones significa en tu vida?",
+        "sender": 122,
+        "receptant": 114,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2018-10-01"
+    },
+    {
+        "message": "Hey! Ayer hice un sendero muy fácil. Eso me tiene mal.",
+        "sender": 122,
+        "receptant": 142,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2016-03-13"
+    },
+    {
+        "message": "Tanto tiempo! I like turtles :). Eso me tiene mal.",
+        "sender": 122,
+        "receptant": 18,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2015-03-14"
+    },
+    {
+        "message": "Cómo estás? Quería saber cómo va tu día. Jajajajaja.",
+        "sender": 122,
+        "receptant": 58,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2015-07-18"
+    },
+    {
+        "message": "Buena! Estamos preparando material para el nuevo disco. Jijiji.",
+        "sender": 122,
+        "receptant": 60,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2016-05-20"
+    },
+    {
+        "message": "Buena! Fue falta profe! Eso me tiene bien.",
+        "sender": 122,
+        "receptant": 44,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2015-01-07"
+    },
+    {
+        "message": "Hey! Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Cuando un partido?",
+        "sender": 122,
+        "receptant": 55,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2017-12-14"
+    },
+    {
+        "message": "Tanto tiempo! Cómo estás?",
+        "sender": 123,
+        "receptant": 65,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2017-02-23"
+    },
+    {
+        "message": "Hey! Di un concierto anoche. Jajajajaja.",
+        "sender": 123,
+        "receptant": 135,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2015-02-05"
+    },
+    {
+        "message": "Hola! Viste las noticias?",
+        "sender": 123,
+        "receptant": 5,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2017-08-26"
+    },
+    {
+        "message": "Hola! Pensaste en la propuesta?",
+        "sender": 123,
+        "receptant": 50,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2018-04-11"
+    },
+    {
+        "message": "Hola! Pensé en lo que el paso de las estaciones significa en mi vida. Eso me hace feliz.",
+        "sender": 124,
+        "receptant": 71,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-08-28"
+    },
+    {
+        "message": "Hey! Me voy de viaje. Eso me tiene bien.",
+        "sender": 124,
+        "receptant": 142,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2016-07-13"
+    },
+    {
+        "message": "Te cuento que: Me encanta el grunge. Me despido, salu5.",
+        "sender": 124,
+        "receptant": 67,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2017-04-14"
+    },
+    {
+        "message": "Cómo estás? Canté mi canción favorita anoche. Jijiji.",
+        "sender": 124,
+        "receptant": 42,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2017-10-06"
+    },
+    {
+        "message": "Hola! Has ido al nuevo restaurant?",
+        "sender": 125,
+        "receptant": 83,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-07-12"
+    },
+    {
+        "message": "Sucede que: Me quiero ir del United. Me despido, salu5.",
+        "sender": 125,
+        "receptant": 19,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-01-05"
+    },
+    {
+        "message": "Buena! No sé qué pensé al comprar NebCoins. Eso me hace feliz.",
+        "sender": 125,
+        "receptant": 70,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-07-05"
+    },
+    {
+        "message": "Buena! No lo sé Rick, parece falso. Eso me tiene mal.",
+        "sender": 125,
+        "receptant": 84,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-03-10"
+    },
+    {
+        "message": "Cómo estás? Bailé hasta muy tarde. 10 - 4.",
+        "sender": 125,
+        "receptant": 40,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-11-08"
+    },
+    {
+        "message": "Sucede que: Hoy compré pan con NebCoins. Me despido, salu5.",
+        "sender": 125,
+        "receptant": 145,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-03-20"
+    },
+    {
+        "message": "Te cuento que: No sé si invertir en NebCoins. Me despido, saludos.",
+        "sender": 125,
+        "receptant": 111,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2017-01-14"
+    },
+    {
+        "message": "Cómo estás? Me comí un churrasco. Jijiji.",
+        "sender": 126,
+        "receptant": 86,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2015-04-22"
+    },
+    {
+        "message": "Cómo estás? Te odio. Espero que nos juntemos pronto.",
+        "sender": 126,
+        "receptant": 100,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2017-03-16"
+    },
+    {
+        "message": "Buena! Keep calm and buy NebCoins. No sé que hacer al respecto.",
+        "sender": 126,
+        "receptant": 49,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2017-08-19"
+    },
+    {
+        "message": "Hola! Dame tus datos para mandarte las NebCoins. ",
+        "sender": 126,
+        "receptant": 142,
+        "lat": 34.690325,
+        "long": 135.794393,
+        "date": "2017-02-10"
+    },
+    {
+        "message": "Te cuento que: Te odio. Eso me hace feliz.",
+        "sender": 127,
+        "receptant": 151,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-11-11"
+    },
+    {
+        "message": "Tanto tiempo! Hiciste la tarea de BD?",
+        "sender": 127,
+        "receptant": 124,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-09-17"
+    },
+    {
+        "message": "Tanto tiempo! Quiero jugar PokémonMe despido, saludos.",
+        "sender": 127,
+        "receptant": 112,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-01-03"
+    },
+    {
+        "message": "Hola! No lo sé Rick, parece falso. Cuando un partido?",
+        "sender": 127,
+        "receptant": 36,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-11-22"
+    },
+    {
+        "message": "Hola! Hice un pingüino de origami. Jijiji.",
+        "sender": 127,
+        "receptant": 34,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2015-09-03"
+    },
+    {
+        "message": "Hola! Quiero jugar Megaman. Eso me tiene bien.",
+        "sender": 127,
+        "receptant": 156,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2017-10-13"
+    },
+    {
+        "message": "Sucede que: Tengo que estudiar Bases de Datos. Me despido, saludos.",
+        "sender": 127,
+        "receptant": 6,
+        "lat": -33.05,
+        "long": -71.616667,
+        "date": "2016-07-02"
+    },
+    {
+        "message": "Buena! Hiciste la tarea de BD?",
+        "sender": 128,
+        "receptant": 125,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2015-12-18"
+    },
+    {
+        "message": "Vienes en camino?",
+        "sender": 128,
+        "receptant": 71,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-11-17"
+    },
+    {
+        "message": "Te cuento que: No sé qué pensé al comprar NebCoins. Me despido, saludos.",
+        "sender": 128,
+        "receptant": 139,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-08-04"
+    },
+    {
+        "message": "Buena! Viste la teleserie?",
+        "sender": 128,
+        "receptant": 58,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-04-25"
+    },
+    {
+        "message": "Tenemos que hablar. Dame tus datos para mandarte las NebCoins. Jajajajaja.",
+        "sender": 128,
+        "receptant": 13,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2018-08-12"
+    },
+    {
+        "message": "Buena! No sé qué pensé al comprar NebCoins. Me despido, salu5.",
+        "sender": 128,
+        "receptant": 79,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2016-01-07"
+    },
+    {
+        "message": "Hola! Me quiero ir del Barça. Cuando un partido?",
+        "sender": 128,
+        "receptant": 9,
+        "lat": -33.8688,
+        "long": 151.2092,
+        "date": "2015-12-13"
+    },
+    {
+        "message": "Tenemos que hablar. Estuve pensando en lo de P y NP. Espero que nos juntemos pronto.",
+        "sender": 129,
+        "receptant": 106,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2015-04-11"
+    },
+    {
+        "message": "Sucede que: Quiero hacer el tour de Robert Langdon por Roma. 10 - 4.",
+        "sender": 129,
+        "receptant": 43,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-05-02"
+    },
+    {
+        "message": "Buena! No sé que hacer. Espero que nos juntemos pronto.",
+        "sender": 129,
+        "receptant": 96,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-11-24"
+    },
+    {
+        "message": "Hola! Me gustó el hotel que reservé. 10 - 4.",
+        "sender": 129,
+        "receptant": 27,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2016-04-12"
+    },
+    {
+        "message": "Pasó algo. Está difícil la tarea. Cambio y fuera.",
+        "sender": 129,
+        "receptant": 101,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-01-11"
+    },
+    {
+        "message": "Buena! Hice un pingüino de origami. Eso me hace feliz.",
+        "sender": 129,
+        "receptant": 113,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-11-13"
+    },
+    {
+        "message": "Tanto tiempo! Quiero NebCoins. No sé que hacer al respecto.",
+        "sender": 129,
+        "receptant": 141,
+        "lat": -34.471925,
+        "long": -57.851139,
+        "date": "2018-01-05"
+    },
+    {
+        "message": "Tanto tiempo! Estamos preparando material para el nuevo disco. Me despido, salu5.",
+        "sender": 130,
+        "receptant": 59,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2016-05-09"
+    },
+    {
+        "message": "Te cuento que: Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. Me despido, saludos.",
+        "sender": 130,
+        "receptant": 60,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2018-12-11"
+    },
+    {
+        "message": "Sucede que: Hice un pingüino de origami. Espero que nos juntemos pronto.",
+        "sender": 130,
+        "receptant": 22,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2017-09-26"
+    },
+    {
+        "message": "Tenemos que hablar. Está difícil la tarea. 10 - 4.",
+        "sender": 130,
+        "receptant": 20,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2018-01-19"
+    },
+    {
+        "message": "Hola! Pensaste en la propuesta?",
+        "sender": 130,
+        "receptant": 126,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2018-01-23"
+    },
+    {
+        "message": "Cómo estás?",
+        "sender": 130,
+        "receptant": 39,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2016-08-14"
+    },
+    {
+        "message": "Tanto tiempo! Hiciste la tarea de BD?",
+        "sender": 131,
+        "receptant": 20,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-03-28"
+    },
+    {
+        "message": "Sucede que: Estoy intentando aprobar el test de turing. Eso me hace feliz.",
+        "sender": 131,
+        "receptant": 128,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-03-04"
+    },
+    {
+        "message": "Pasó algo. Ayer hice un sendero muy fácil. Jajajajaja.",
+        "sender": 131,
+        "receptant": 156,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-01-11"
+    },
+    {
+        "message": "Buena! Ayer hcie un sendero muy difícil. Cuando un partido?",
+        "sender": 131,
+        "receptant": 115,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-03-09"
+    },
+    {
+        "message": "Hola! Me voy de viaje. No sé que hacer al respecto.",
+        "sender": 131,
+        "receptant": 115,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-02-20"
+    },
+    {
+        "message": "Buena! Has ido al nuevo restaurant?",
+        "sender": 132,
+        "receptant": 95,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-07-14"
+    },
+    {
+        "message": "Te cuento que: Fue falta profe! Jijiji.",
+        "sender": 132,
+        "receptant": 14,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-10-14"
+    },
+    {
+        "message": "Pasó algo. Quiero jugar PokémonEso me tiene mal.",
+        "sender": 132,
+        "receptant": 39,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-04-14"
+    },
+    {
+        "message": "Buena! Viste la teleserie?",
+        "sender": 132,
+        "receptant": 130,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-08-10"
+    },
+    {
+        "message": "Buena! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Me despido, salu5.",
+        "sender": 132,
+        "receptant": 85,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-04-24"
+    },
+    {
+        "message": "Tenemos que hablar. Hoy compré pan con NebCoins. Jajajajaja.",
+        "sender": 132,
+        "receptant": 1,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-11-19"
+    },
+    {
+        "message": "Tenemos que hablar. Me gustó el hotel que reservé. Me despido, saludos.",
+        "sender": 132,
+        "receptant": 14,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-05-07"
+    },
+    {
+        "message": "Te cuento que: Ayer hcie un sendero muy difícil. Eso me hace feliz.",
+        "sender": 133,
+        "receptant": 61,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-07-11"
+    },
+    {
+        "message": "Tenemos que hablar. Quiero jugar PokémonMe despido, saludos.",
+        "sender": 133,
+        "receptant": 110,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2015-10-04"
+    },
+    {
+        "message": "Hola! Canté mi canción favorita anoche. ",
+        "sender": 133,
+        "receptant": 153,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2018-09-10"
+    },
+    {
+        "message": "Tanto tiempo! Me encanta el metal. Jajajajaja.",
+        "sender": 134,
+        "receptant": 88,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2016-12-20"
+    },
+    {
+        "message": "Tanto tiempo! No sé qué pensé al comprar NebCoins. Eso me hace feliz.",
+        "sender": 134,
+        "receptant": 32,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2016-03-26"
+    },
+    {
+        "message": "Cómo va tu curso de origami?",
+        "sender": 134,
+        "receptant": 96,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2016-04-21"
+    },
+    {
+        "message": "Hola! Viste la teleserie?",
+        "sender": 134,
+        "receptant": 19,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2017-08-12"
+    },
+    {
+        "message": "Hola! Palestino es muy grande. Eso me hace feliz.",
+        "sender": 134,
+        "receptant": 63,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2017-01-07"
+    },
+    {
+        "message": "Te cuento que: Quiero hacer el tour de Robert Langdon por Roma. Cuando un partido?",
+        "sender": 134,
+        "receptant": 45,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2015-06-04"
+    },
+    {
+        "message": "Sucede que: Mi muñeca me habló. Cambio y fuera.",
+        "sender": 134,
+        "receptant": 109,
+        "lat": 43.773218,
+        "long": 11.25847,
+        "date": "2016-09-12"
+    },
+    {
+        "message": "Sucede que: Estoy intentando aprobar el test de turing. No sé que hacer al respecto.",
+        "sender": 135,
+        "receptant": 28,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-10-11"
+    },
+    {
+        "message": "Hey! Me voy de viaje. No sé que hacer al respecto.",
+        "sender": 135,
+        "receptant": 96,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2017-08-05"
+    },
+    {
+        "message": "Buena! Me robé su corazón. Eso me hace feliz.",
+        "sender": 135,
+        "receptant": 117,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-08-19"
+    },
+    {
+        "message": "Tenemos que hablar. Me robé su corazón. Espero que nos juntemos pronto.",
+        "sender": 136,
+        "receptant": 14,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-10-14"
+    },
+    {
+        "message": "Tanto tiempo! Hice un pingüino de origami. Eso me tiene mal.",
+        "sender": 136,
+        "receptant": 99,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2018-11-15"
+    },
+    {
+        "message": "Tenemos que hablar. No lo sé Rick, parece falso. Espero que nos juntemos pronto.",
+        "sender": 136,
+        "receptant": 144,
+        "lat": -29.9,
+        "long": -71.25,
+        "date": "2017-01-24"
+    },
+    {
+        "message": "Cómo estás? El nuevo restaurant me gusta mucho. Eso me tiene mal.",
+        "sender": 137,
+        "receptant": 7,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-08-14"
+    },
+    {
+        "message": "Tenemos que hablar. Estoy intentando aprobar el test de turing. Jajajajaja.",
+        "sender": 137,
+        "receptant": 90,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-03-19"
+    },
+    {
+        "message": "Tenemos que hablar. Me encanta el reggaetton. Eso me tiene mal.",
+        "sender": 137,
+        "receptant": 68,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2018-03-09"
+    },
+    {
+        "message": "Te cuento que: Odio el reggaetton. 10 - 4.",
+        "sender": 137,
+        "receptant": 77,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-12-17"
+    },
+    {
+        "message": "Viste la teleserie?",
+        "sender": 137,
+        "receptant": 106,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-03-11"
+    },
+    {
+        "message": "Cómo estás? Está difícil la tarea. Jijiji.",
+        "sender": 137,
+        "receptant": 40,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-01-14"
+    },
+    {
+        "message": "Hola! Me encanta el reggaetton. Eso me hace feliz.",
+        "sender": 138,
+        "receptant": 39,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-08-22"
+    },
+    {
+        "message": "Tanto tiempo! Viste las noticias?",
+        "sender": 138,
+        "receptant": 90,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-11-18"
+    },
+    {
+        "message": "Cómo estás? Alcancé el equilibrio espiritual. Eso me tiene bien.",
+        "sender": 138,
+        "receptant": 127,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-03-05"
+    },
+    {
+        "message": "Tanto tiempo! No sé que hacer. Me despido, salu3.",
+        "sender": 138,
+        "receptant": 113,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-06-02"
+    },
+    {
+        "message": "Sucede que: Keep calm and buy NebCoins. Jajajajaja.",
+        "sender": 139,
+        "receptant": 15,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2017-07-24"
+    },
+    {
+        "message": "Tanto tiempo! Canté mi canción favorita anoche. Jajajajaja.",
+        "sender": 139,
+        "receptant": 160,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-06-05"
+    },
+    {
+        "message": "Hola! El nuevo restaurant me gusta mucho. No sé que hacer al respecto.",
+        "sender": 139,
+        "receptant": 59,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-11-22"
+    },
+    {
+        "message": "Tanto tiempo! Quiero jugar Megaman. Eso me hace feliz.",
+        "sender": 140,
+        "receptant": 139,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-08-09"
+    },
+    {
+        "message": "Te cuento que: Estamos preparando material para el nuevo disco. Cuando un partido?",
+        "sender": 140,
+        "receptant": 15,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2018-11-27"
+    },
+    {
+        "message": "Buena! Vienes en camino?",
+        "sender": 140,
+        "receptant": 25,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-12-01"
+    },
+    {
+        "message": "Buena! No sé si invertir en NebCoins. Cambio y fuera.",
+        "sender": 140,
+        "receptant": 110,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2015-04-19"
+    },
+    {
+        "message": "Tanto tiempo! Cobreloa es el mejor equipo del mundo. No sé que hacer al respecto.",
+        "sender": 140,
+        "receptant": 13,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2017-11-05"
+    },
+    {
+        "message": "Pasó algo. Quiero jugar PokémonEspero que nos juntemos pronto.",
+        "sender": 140,
+        "receptant": 27,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2017-01-26"
+    },
+    {
+        "message": "Sucede que: Odio el reggaetton. Jijiji.",
+        "sender": 140,
+        "receptant": 2,
+        "lat": 45.466667,
+        "long": 9.183333,
+        "date": "2016-12-19"
+    },
+    {
+        "message": "Sucede que: Dame tus datos para mandarte las NebCoins. ",
+        "sender": 141,
+        "receptant": 76,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2017-12-04"
+    },
+    {
+        "message": "Cómo estás? Quiero jugar Megaman. Jajajajaja.",
+        "sender": 141,
+        "receptant": 91,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-11-17"
+    },
+    {
+        "message": "Buena! Cómo va tu curso de origami?",
+        "sender": 141,
+        "receptant": 53,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-03-21"
+    },
+    {
+        "message": "Buena! Vienes en camino?",
+        "sender": 141,
+        "receptant": 142,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-09-27"
+    },
+    {
+        "message": "Tenemos que hablar. No sé si invertir en NebCoins. Cuando un partido?",
+        "sender": 142,
+        "receptant": 146,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-09-24"
+    },
+    {
+        "message": "Sucede que: Tengo que estudiar Bases de Datos. 10 - 4.",
+        "sender": 142,
+        "receptant": 116,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2016-07-27"
+    },
+    {
+        "message": "Te cuento que: Hoy compré pan con NebCoins. Me despido, saludos.",
+        "sender": 142,
+        "receptant": 67,
+        "lat": -23.65,
+        "long": -70.4,
+        "date": "2017-03-26"
+    },
+    {
+        "message": "Sucede que: Hoy compré pan con NebCoins. Jijiji.",
+        "sender": 143,
+        "receptant": 105,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2017-10-01"
+    },
+    {
+        "message": "Hola! Hice un pingüino de origami. Eso me tiene mal.",
+        "sender": 143,
+        "receptant": 36,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2017-04-22"
+    },
+    {
+        "message": "Hey! Quería saber cómo va tu día. Espero que nos juntemos pronto.",
+        "sender": 143,
+        "receptant": 58,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2016-05-03"
+    },
+    {
+        "message": "Hola! Vas a venir?",
+        "sender": 143,
+        "receptant": 28,
+        "lat": -18.483333,
+        "long": -70.333333,
+        "date": "2018-12-13"
+    },
+    {
+        "message": "Tanto tiempo! Canté mi canción favorita anoche. Cambio y fuera.",
+        "sender": 144,
+        "receptant": 91,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-10-24"
+    },
+    {
+        "message": "Viste la teleserie?",
+        "sender": 144,
+        "receptant": 129,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-10-01"
+    },
+    {
+        "message": "Buena! Pensé en lo que el paso de las estaciones significa en mi vida. Eso me hace feliz.",
+        "sender": 144,
+        "receptant": 48,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-09-18"
+    },
+    {
+        "message": "Hey! No lo sé Rick, parece falso. Eso me tiene mal.",
+        "sender": 144,
+        "receptant": 11,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-01-19"
+    },
+    {
+        "message": "Cómo va tu curso de origami?",
+        "sender": 144,
+        "receptant": 157,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-06-23"
+    },
+    {
+        "message": "Cómo estás? Estamos preparando material para el nuevo disco. Me despido, saludos.",
+        "sender": 144,
+        "receptant": 16,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-08-09"
+    },
+    {
+        "message": "Tanto tiempo! Viste la teleserie?",
+        "sender": 144,
+        "receptant": 15,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2015-11-20"
+    },
+    {
+        "message": "Hey! Me encanta el reggaetton. Jajajajaja.",
+        "sender": 145,
+        "receptant": 10,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-12-03"
+    },
+    {
+        "message": "Hola! Me quiero ir del Barça. Me despido, saludos.",
+        "sender": 145,
+        "receptant": 28,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-01-08"
+    },
+    {
+        "message": "Hey! Palestino es muy grande. Me despido, salu5.",
+        "sender": 145,
+        "receptant": 23,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-07-06"
+    },
+    {
+        "message": "Tenemos que hablar. Ayer hcie un sendero muy difícil. Jijiji.",
+        "sender": 145,
+        "receptant": 88,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2017-08-09"
+    },
+    {
+        "message": "Hey! Me robé su corazón. Cambio y fuera.",
+        "sender": 146,
+        "receptant": 128,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-06-28"
+    },
+    {
+        "message": "Buena! Pensaste en la propuesta?",
+        "sender": 146,
+        "receptant": 3,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-03-16"
+    },
+    {
+        "message": "Hey! Lorem ipsum dolor sit amet. Cambio y fuera.",
+        "sender": 146,
+        "receptant": 95,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-11-03"
+    },
+    {
+        "message": "Has ido al nuevo restaurant?",
+        "sender": 146,
+        "receptant": 93,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2015-06-04"
+    },
+    {
+        "message": "Hola! Estudiaste BD?",
+        "sender": 146,
+        "receptant": 157,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-12-06"
+    },
+    {
+        "message": "Cómo estás? Canté mi canción favorita anoche. No sé que hacer al respecto.",
+        "sender": 146,
+        "receptant": 132,
+        "lat": -34.166667,
+        "long": -70.75,
+        "date": "2016-12-01"
+    },
+    {
+        "message": "Pasó algo. Me comí un churrasco. Me despido, salu3.",
+        "sender": 147,
+        "receptant": 63,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-02-11"
+    },
+    {
+        "message": "Tenemos que hablar. Perdí mi pingüino. Eso me hace feliz.",
+        "sender": 147,
+        "receptant": 67,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-08-07"
+    },
+    {
+        "message": "Hola! El nuevo restaurant me gusta mucho. Me despido, saludos.",
+        "sender": 147,
+        "receptant": 118,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-12-07"
+    },
+    {
+        "message": "Hey! This is no time for caution, TARS. Eso me hace feliz.",
+        "sender": 147,
+        "receptant": 6,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-06-21"
+    },
+    {
+        "message": "Hola! Estudiaste BD?",
+        "sender": 147,
+        "receptant": 142,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-08-06"
+    },
+    {
+        "message": "Tanto tiempo! Está difícil la tarea. Jajajajaja.",
+        "sender": 147,
+        "receptant": 122,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-10-22"
+    },
+    {
+        "message": "Pasó algo. Te quiero 3000. No sé que hacer al respecto.",
+        "sender": 148,
+        "receptant": 113,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-01-07"
+    },
+    {
+        "message": "Te cuento que: Te odio. Eso me hace feliz.",
+        "sender": 148,
+        "receptant": 13,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-12-23"
+    },
+    {
+        "message": "Buena! Cobreloa es el mejor equipo del mundo. Cambio y fuera.",
+        "sender": 148,
+        "receptant": 78,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-05-27"
+    },
+    {
+        "message": "Hola! Quiero NebCoins. Jijiji.",
+        "sender": 148,
+        "receptant": 30,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-10-04"
+    },
+    {
+        "message": "Tanto tiempo! Me quiero ir del United. Cuando un partido?",
+        "sender": 148,
+        "receptant": 40,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-11-06"
+    },
+    {
+        "message": "Tenemos que hablar. I like turtles :). No sé que hacer al respecto.",
+        "sender": 148,
+        "receptant": 124,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-07-02"
+    },
+    {
+        "message": "Hey! Quiero NebCoins. Eso me tiene mal.",
+        "sender": 148,
+        "receptant": 78,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2018-06-12"
+    },
+    {
+        "message": "Hola! Me comí un completo. No sé que hacer al respecto.",
+        "sender": 149,
+        "receptant": 61,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2018-12-24"
+    },
+    {
+        "message": "Hey! Estamos preparando material para el nuevo disco. Jajajajaja.",
+        "sender": 149,
+        "receptant": 52,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-10-21"
+    },
+    {
+        "message": "Sucede que: Ayer hice un sendero muy fácil. Eso me tiene mal.",
+        "sender": 149,
+        "receptant": 62,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2015-06-11"
+    },
+    {
+        "message": "Hola! Viste las noticias?",
+        "sender": 149,
+        "receptant": 147,
+        "lat": 28.1,
+        "long": -15.4,
+        "date": "2017-02-27"
+    },
+    {
+        "message": "Tenemos que hablar. Tengo que estudiar Bases de Datos. ",
+        "sender": 150,
+        "receptant": 35,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2018-09-03"
+    },
+    {
+        "message": "Tenemos que hablar. Canté mi canción favorita anoche. Jijiji.",
+        "sender": 150,
+        "receptant": 15,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2018-06-15"
+    },
+    {
+        "message": "Buena! Cobreloa es el mejor equipo del mundo. Me despido, salu3.",
+        "sender": 150,
+        "receptant": 139,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-09-24"
+    },
+    {
+        "message": "Tanto tiempo! Cómo estás?",
+        "sender": 151,
+        "receptant": 117,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-11-20"
+    },
+    {
+        "message": "Tanto tiempo! Viste las noticias?",
+        "sender": 151,
+        "receptant": 106,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-10-11"
+    },
+    {
+        "message": "Sucede que: No sé que hacer. Espero que nos juntemos pronto.",
+        "sender": 151,
+        "receptant": 6,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2018-06-25"
+    },
+    {
+        "message": "Pasó algo. Palestino es muy grande. Me despido, salu3.",
+        "sender": 151,
+        "receptant": 152,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2016-06-07"
+    },
+    {
+        "message": "Cómo estás? Cobreloa es el mejor equipo del mundo. No sé que hacer al respecto.",
+        "sender": 151,
+        "receptant": 87,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2016-08-17"
+    },
+    {
+        "message": "Tanto tiempo! Cómo estás?",
+        "sender": 151,
+        "receptant": 2,
+        "lat": 35.77304,
+        "long": 140.387044,
+        "date": "2015-11-12"
+    },
+    {
+        "message": "Tanto tiempo! Bailé hasta muy tarde. Eso me tiene bien.",
+        "sender": 152,
+        "receptant": 80,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-12-15"
+    },
+    {
+        "message": "Pasó algo. No sé que hacer. No sé que hacer al respecto.",
+        "sender": 152,
+        "receptant": 104,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-12-04"
+    },
+    {
+        "message": "Buena! Estamos preparando material para el nuevo disco. Me despido, salu3.",
+        "sender": 152,
+        "receptant": 21,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2016-07-04"
+    },
+    {
+        "message": "Sucede que: Me quiero ir del Barça. Me despido, salu3.",
+        "sender": 152,
+        "receptant": 80,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2018-02-06"
+    },
+    {
+        "message": "Buena! Estudiaste BD?",
+        "sender": 152,
+        "receptant": 15,
+        "lat": -34.603333,
+        "long": -58.381667,
+        "date": "2015-05-13"
+    },
+    {
+        "message": "Hey! Quiero hacer el tour de Robert Langdon por Roma. Me despido, saludos.",
+        "sender": 153,
+        "receptant": 132,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2016-09-23"
+    },
+    {
+        "message": "Tenemos que hablar. Estamos preparando material para el nuevo disco. Espero que nos juntemos pronto.",
+        "sender": 153,
+        "receptant": 24,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2015-07-10"
+    },
+    {
+        "message": "Tenemos que hablar. Estoy intentando aprobar el test de turing. Me despido, salu3.",
+        "sender": 153,
+        "receptant": 106,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2017-03-20"
+    },
+    {
+        "message": "Hola! No sé si invertir en NebCoins. Me despido, salu5.",
+        "sender": 153,
+        "receptant": 134,
+        "lat": -36.828194,
+        "long": -73.051369,
+        "date": "2017-06-08"
+    },
+    {
+        "message": "Tenemos que hablar. Ayer hice un sendero muy fácil. Cuando un partido?",
+        "sender": 154,
+        "receptant": 157,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2018-08-19"
+    },
+    {
+        "message": "Tanto tiempo! Quiero gastar un par de NebCoins. Me despido, salu5.",
+        "sender": 154,
+        "receptant": 7,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-02-22"
+    },
+    {
+        "message": "Sucede que: Tengo que estudiar Bases de Datos. Cambio y fuera.",
+        "sender": 154,
+        "receptant": 105,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-09-24"
+    },
+    {
+        "message": "Hola! Me robé su corazón. Jajajajaja.",
+        "sender": 154,
+        "receptant": 7,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-08-20"
+    },
+    {
+        "message": "Hola! Quiero jugar Megaman. ",
+        "sender": 154,
+        "receptant": 98,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-05-09"
+    },
+    {
+        "message": "Pasó algo. Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Cambio y fuera.",
+        "sender": 154,
+        "receptant": 66,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2017-01-25"
+    },
+    {
+        "message": "Tenemos que hablar. Odio el reggaetton. Cambio y fuera.",
+        "sender": 154,
+        "receptant": 73,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-09-07"
+    },
+    {
+        "message": "Pasó algo. Perdí mi pingüino. 10 - 4.",
+        "sender": 155,
+        "receptant": 98,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-05-07"
+    },
+    {
+        "message": "Sucede que: This is no time for caution, TARS. No sé que hacer al respecto.",
+        "sender": 155,
+        "receptant": 96,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-08-06"
+    },
+    {
+        "message": "Cómo estás? Escuché la nueva canción de Metallica. No sé que hacer al respecto.",
+        "sender": 155,
+        "receptant": 109,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-12-01"
+    },
+    {
+        "message": "Te cuento que: I like turtles :). Me despido, salu5.",
+        "sender": 155,
+        "receptant": 130,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2016-01-17"
+    },
+    {
+        "message": "Te cuento que: Hubo un gol de Audax. Me despido, salu5.",
+        "sender": 155,
+        "receptant": 68,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2018-11-17"
+    },
+    {
+        "message": "Cómo estás? Hoy compré pan con NebCoins. 10 - 4.",
+        "sender": 155,
+        "receptant": 37,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-07-03"
+    },
+    {
+        "message": "Sucede que: Hoy compré pan con NebCoins. 10 - 4.",
+        "sender": 155,
+        "receptant": 23,
+        "lat": 25.2048,
+        "long": 55.2708,
+        "date": "2017-03-14"
+    },
+    {
+        "message": "Tanto tiempo! Cómo va tu curso de origami?",
+        "sender": 156,
+        "receptant": 24,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2015-04-18"
+    },
+    {
+        "message": "Sucede que: Quiero jugar PokémonMe despido, saludos.",
+        "sender": 156,
+        "receptant": 21,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-09-16"
+    },
+    {
+        "message": "Pasó algo. Me quiero ir del Barça. Eso me tiene mal.",
+        "sender": 156,
+        "receptant": 150,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2017-01-24"
+    },
+    {
+        "message": "Hola! Hoy compré pan con NebCoins. Eso me tiene mal.",
+        "sender": 156,
+        "receptant": 69,
+        "lat": -46.059365,
+        "long": -72.201691,
+        "date": "2016-11-28"
+    },
+    {
+        "message": "Cómo estás? Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. ",
+        "sender": 157,
+        "receptant": 135,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-07-25"
+    },
+    {
+        "message": "Cómo estás? Escuché la nueva canción de Metallica. Cuando un partido?",
+        "sender": 157,
+        "receptant": 61,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-10-22"
+    },
+    {
+        "message": "Sucede que: Hoy compré pan con NebCoins. Cambio y fuera.",
+        "sender": 157,
+        "receptant": 107,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-07-26"
+    },
+    {
+        "message": "Sucede que: Me encanta el metal. Eso me tiene mal.",
+        "sender": 157,
+        "receptant": 113,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2015-05-20"
+    },
+    {
+        "message": "Tanto tiempo! Cobreloa es el mejor equipo del mundo. Cuando un partido?",
+        "sender": 157,
+        "receptant": 76,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-10-27"
+    },
+    {
+        "message": "Sucede que: Di un concierto anoche. Espero que nos juntemos pronto.",
+        "sender": 157,
+        "receptant": 154,
+        "lat": 35.333726,
+        "long": 25.374343,
+        "date": "2016-02-19"
+    },
+    {
+        "message": "Hey! Cobreloa es el mejor equipo del mundo. Me despido, saludos.",
+        "sender": 158,
+        "receptant": 64,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2018-12-19"
+    },
+    {
+        "message": "Tanto tiempo! Vi a un ballet anoche. Espero que nos juntemos pronto.",
+        "sender": 158,
+        "receptant": 129,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-09-28"
+    },
+    {
+        "message": "Buena! Me comí un completo. Me despido, salu3.",
+        "sender": 158,
+        "receptant": 156,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-03-02"
+    },
+    {
+        "message": "Cómo estás? Quiero NebCoins. 10 - 4.",
+        "sender": 158,
+        "receptant": 119,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2017-07-14"
+    },
+    {
+        "message": "Hey! Mi muñeca me habló. Me despido, salu3.",
+        "sender": 158,
+        "receptant": 108,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2016-07-06"
+    },
+    {
+        "message": "Tenemos que hablar. No lo sé Rick, parece falso. Cuando un partido?",
+        "sender": 158,
+        "receptant": 56,
+        "lat": -53.166667,
+        "long": -70.933333,
+        "date": "2015-09-24"
+    },
+    {
+        "message": "Tanto tiempo! Hoy me levanté contento, hoy me levanté feliz. Hoy anoté un golazo. 10 - 4.",
+        "sender": 159,
+        "receptant": 41,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2018-05-22"
+    },
+    {
+        "message": "Buena! Quería saber si pensaste lo que el paso de las estaciones significa en tu vida. Me despido, saludos.",
+        "sender": 159,
+        "receptant": 96,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-04-06"
+    },
+    {
+        "message": "Tanto tiempo! Quiero organizar una fiesta de té. Me despido, salu5.",
+        "sender": 159,
+        "receptant": 33,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2016-01-07"
+    },
+    {
+        "message": "Tanto tiempo! Mi muñeca me habló. No sé que hacer al respecto.",
+        "sender": 159,
+        "receptant": 4,
+        "lat": -33.45,
+        "long": -70.666667,
+        "date": "2015-11-03"
+    }
+]
