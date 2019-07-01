@@ -1,0 +1,38 @@
+## Pregunta 1
+
+MATCH (a:Alumno)-[rel:Toma_Curso]->(c:Curso)
+WHERE a.Name="Tamara Cucumides"
+RETURN a, rel, c
+
+## Pregunta 2
+
+MATCH (a:Alumno)-[rel:Toma_Curso]->(c:Curso)
+WHERE c.sigla="IIC2413"
+RETURN COUNT(a)
+
+MATCH (a:Alumno)-[rel:Toma_Curso]->(c:Curso)
+WHERE c.Name="Aplicaciones de EDP y analisis funcional"
+RETURN COUNT(a)
+
+## Pregunta 3
+
+MATCH (a:Alumno)-[rel:Es_Ayudante]->(c:Curso)<-[rel2:Dicta_Curso]-(p:Profesor)
+WHERE p.Name="Adrián Soto"
+RETURN a, c, p
+
+## Pregunta 4
+
+MATCH (a:Alumno)-[rel:Es_Ayudante]->(c:Curso)<-[rel2:Dicta_Curso]-(p:Profesor)
+WHERE p.Name="Adrián Soto"
+RETURN a, c, p
+
+
+## Preunta 5
+
+MATCH (a:Alumno)-[rel:Es_ayudante]->(c:Curso)-[re:Es_ayudante]-(b:Alumno) 
+WHERE a.Name <> b.Name AND exists((b)-[:Toma_Curso]-(:Curso)-[:Toma_Curso]-(a))
+RETURN a,b,c
+
+
+
+
